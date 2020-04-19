@@ -1,0 +1,51 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 29
+    buildToolsVersion "29.0.2"
+
+    defaultConfig {
+        minSdkVersion 17
+        targetSdkVersion 29
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        consumerProguardFiles 'consumer-rules.pro'
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+}
+
+repositories {
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+dependencies {
+    /*
+    此处需要注意libs文件夹下的jar文件已改为compileOnly方式引用了。
+    当你离线工程调试时需要把插件中用到的jar文件在app工程的build.gradle中配置相应的jar文件implementation引入。
+    一定要注意！！！否则导致应用闪退等问题。至于插件中用到的jar文件在打插件包时文件到底放在什么位置请留意插件打包文档。
+    * */
+    compileOnly fileTree(dir: 'libs', include: ['*.jar'])
+
+    compileOnly fileTree(dir: '../app/libs', include: ['uniapp-release.aar'])
+    implementation 'com.alibaba:fastjson:1.2.59'
+
+//    implementation 'com.android.support:appcompat-v7:28.0.0'
+//    testImplementation 'junit:junit:4.12'
+//    androidTestImplementation 'com.android.support.test:runner:1.0.2'
+//    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+    compileOnly "com.android.support:recyclerview-v7:26.1.0"
+    compileOnly "com.android.support:support-v4:26.1.0"
+    compileOnly "com.android.support:appcompat-v7:26.1.0"
+
+}

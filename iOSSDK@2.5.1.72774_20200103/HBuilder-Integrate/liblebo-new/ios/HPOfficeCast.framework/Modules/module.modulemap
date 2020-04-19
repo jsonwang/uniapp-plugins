@@ -1,0 +1,6 @@
+framework module HPOfficeCast {
+  umbrella header "HPOfficeCast.h"
+
+  export *
+  module * { export * }
+}

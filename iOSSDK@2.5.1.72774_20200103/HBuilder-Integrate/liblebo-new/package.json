@@ -1,0 +1,26 @@
+{
+	"name": "liblebo",
+	"id": "liblebo-new",
+	"version": "0.0.1",
+	"description": "乐播插件",
+	"_dp_type":"nativeplugin",
+	"_dp_nativeplugin":{
+		"ios": {
+			"plugins": [
+				{
+					"type": "module",
+					"name": "plugintest",
+					"class": "PGPluginTest"
+				}
+			],
+             "frameworks": [
+                 libxml2.tbd,
+               
+            ],
+			"integrateType": "framework",
+			"deploymentTarget": "8.0"
+            
+		},
+ 
+	}
+}

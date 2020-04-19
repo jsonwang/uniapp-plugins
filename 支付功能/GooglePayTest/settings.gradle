@@ -1,0 +1,2 @@
+include ':app', ':googlepaylibray'
+rootProject.name='GooglePayTest'

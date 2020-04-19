@@ -1,0 +1,23 @@
+{
+	"name": "google-pay",
+	"id": "google-pay",
+	"version": "0.1.3",
+	"description": "google 支付",
+	"_dp_type":"nativeplugin",
+	"_dp_nativeplugin":{
+		"ios": {
+		 
+		},
+		"android": {
+			"plugins": [
+				{
+					// "type": "module",
+					// "name": "google-pay",
+					// "class": "com.ak.io.uniplugin_googlepay.GooglePayWXModule"
+				}
+			],
+			"integrateType": "aar",
+			"minSdkVersion" : 16
+		}
+	}
+}

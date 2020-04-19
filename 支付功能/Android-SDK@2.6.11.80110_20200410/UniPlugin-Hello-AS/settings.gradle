@@ -1,0 +1,2 @@
+include ':app', ':uniplugin_richalert'
+include ':googlepaylib'

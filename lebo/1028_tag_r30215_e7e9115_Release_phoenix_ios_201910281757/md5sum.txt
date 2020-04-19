@@ -1,0 +1,2 @@
+f708d269d73e4ee6d65ddd15e07d0b5e  LBLelinkKit_framework.zip
+e352436f40689b74fe58259a684e4cd2  release_note.txt

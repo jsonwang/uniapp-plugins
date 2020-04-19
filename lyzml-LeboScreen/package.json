@@ -1,0 +1,20 @@
+{
+	"name": "lyzml-LeboScreen",
+	"id": "lyzml-LeboScreen",
+	"version": "1.0.0",
+	"description": "乐播投屏插件",
+	"_dp_type":"nativeplugin",
+	"_dp_nativeplugin":{
+		"android": {
+			"plugins": [
+				{
+					"type": "module",
+					"name": "lyzml-LeboScreen",
+					"class": "com.coolanimals.lyzml_leboscreen.LeboScreenWXModule"
+				}
+			],
+			"integrateType": "aar",
+			"minSdkVersion" : 16
+		}
+	}
+}

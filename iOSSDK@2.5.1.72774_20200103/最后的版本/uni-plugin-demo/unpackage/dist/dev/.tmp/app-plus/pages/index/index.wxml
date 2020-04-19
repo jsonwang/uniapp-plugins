@@ -1,0 +1,1 @@
+<view><button data-event-opts="{{[['tap',[['beginScan',['$event']]]]]}}" bindtap="__e">扫描设备</button><button data-event-opts="{{[['tap',[['beginPlay',['$event']]]]]}}" bindtap="__e">开始投屏</button></view>

@@ -1,0 +1,4 @@
+# Referenced at /Users/ak/Desktop/投屏的功能/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:38
+-keep class io.dcloud.application.DCloudApplication { <init>(...); }
+# Referenced at /Users/ak/Desktop/投屏的功能/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:179
+-keep class io.dcloud.multiprocess.activity.WebAppActivity1 { <init>(...); }
