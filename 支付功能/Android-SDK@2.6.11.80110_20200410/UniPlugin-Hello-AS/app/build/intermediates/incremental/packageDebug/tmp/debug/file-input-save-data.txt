@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Apr 19 02:56:21 CST 2020
+#Sun Apr 19 12:36:58 CST 2020
 60.set=ASSET
 52.set=DEX
 53.base=/Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
@@ -19,7 +19,7 @@
 94.path=lib/arm64-v8a/libWTF.so
 100.set=ASSET
 72.baseType=DIRECTORY
-62.base=/Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/transforms/dexMerger/debug/3
+62.base=/Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
 54.path=uni-jsframework.js
 69.base=/Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
 9.set=NATIVE_RESOURCE
@@ -35,7 +35,7 @@
 43.set=NATIVE_RESOURCE
 35.set=NATIVE_RESOURCE
 27.set=NATIVE_RESOURCE
-63.path=data/wap2app/__wap2appbrowser.html
+63.path=classes.dex
 7.baseType=DIRECTORY
 19.set=NATIVE_RESOURCE
 36.base=/Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/transforms/mergeJniLibs/debug/0
@@ -97,7 +97,7 @@
 25.set=ASSET
 17.set=ASSET
 95.set=ASSET
-62.path=classes.dex
+62.path=data/wap2app/__wap2appbrowser.html
 97.baseType=DIRECTORY
 35.base=/Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/transforms/mergeJniLibs/debug/0
 87.set=NATIVE_RESOURCE
@@ -328,7 +328,7 @@ count=102
 31.baseType=DIRECTORY
 78.base=/Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/transforms/mergeJniLibs/debug/0
 71.set=ASSET
-63.set=ASSET
+63.set=DEX
 100.baseType=DIRECTORY
 98.baseType=DIRECTORY
 55.set=NATIVE_RESOURCE
@@ -356,7 +356,7 @@ count=102
 86.path=lib/armeabi-v7a/libweexjss.so
 84.baseType=DIRECTORY
 70.set=ASSET
-62.set=DEX
+62.set=ASSET
 54.base=/Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
 54.set=ASSET
 10.baseType=DIRECTORY
@@ -373,7 +373,7 @@ count=102
 80.baseType=DIRECTORY
 40.baseType=DIRECTORY
 100.base=/Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
-63.base=/Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+63.base=/Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/transforms/dexMerger/debug/3
 55.path=lib/arm64-v8a/libweexjss.so
 33.baseType=DIRECTORY
 23.base=/Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out

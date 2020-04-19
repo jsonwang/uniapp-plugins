@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ak/Desktop/投屏的功能/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ldltr-v17/values-ldltr-v17.xml",
+            "outputFile": "/Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ldltr-v17/values-ldltr-v17.xml",
             "map": [
                 {
-                    "source": "/Users/ak/.gradle/caches/transforms-1/files-1.1/uniapp-release.aar/3d63690ae763a803e61ba02472120d32/res/values-ldltr-v17/values-ldltr-v17.xml",
+                    "source": "/Users/ak/.gradle/caches/transforms-1/files-1.1/uniapp-release.aar/90c662fb4d6ae0b90f2e2c5b64f5e6e0/res/values-ldltr-v17/values-ldltr-v17.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

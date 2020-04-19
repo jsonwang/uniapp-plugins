@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ak/Desktop/投屏的功能/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml",
+            "outputFile": "/Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
                     "source": "/Users/ak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/78c7e0da72ae07121a16911176bedf55/res/values-port/values-port.xml",

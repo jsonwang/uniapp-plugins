@@ -1,4 +1,4 @@
-#Sat Apr 18 01:28:27 CST 2020
-base.0=/Users/ak/Desktop/投屏的功能/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/transforms/dexMerger/release/0
+#Sun Apr 19 12:56:15 CST 2020
+base.0=/Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/transforms/dexMerger/release/0
 path.0=classes.dex
 renamed.0=classes.dex

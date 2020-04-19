@@ -14,7 +14,10 @@ import com.taobao.weex.bridge.JSCallback;
 import com.taobao.weex.utils.WXLogUtils;
 import com.taobao.weex.utils.WXResourceUtils;
 
+import java.util.ArrayList;
+import java.util.List;
 
+import uni.dcloud.io.uniplugin_richalert.GooglePayUtil;
 
 
 
@@ -35,8 +38,20 @@ public class GooglePayWXModule extends WXSDKEngine.DestroyableModule {
     @JSMethod(uiThread = true)
     public void show(JSONObject options, JSCallback jsCallback) {
 
+
+
+
         Log.i("ssssssffff", "show: sssssss");
         if (mWXSDKInstance.getContext() instanceof Activity) {
+
+
+
+            GooglePayUtil util = new GooglePayUtil();
+
+            List list = new ArrayList();
+            list.add("welosvip_a");
+            util.start(list,mWXSDKInstance.getContext());
+
             String content = options.getString(CONTENT);
             int contentColor = WXResourceUtils.getColor(options.getString(CONTENT_COLOR), defColor);
             String contentAlign = options.getString(CONTENT_ALIGN);

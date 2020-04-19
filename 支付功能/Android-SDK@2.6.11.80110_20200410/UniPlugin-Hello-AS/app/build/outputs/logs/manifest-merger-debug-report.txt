@@ -52,6 +52,7 @@ MERGED from [com.facebook.fresco:nativeimagetranscoder:1.13.0] /Users/ak/.gradle
 MERGED from [com.facebook.fresco:imagepipeline-base:1.13.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.13.0.aar/387269d1cd96d602fc672c57733e5bbe/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:fbcore:1.13.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/fbcore-1.13.0.aar/f9552def324095b08141de7c9ec3b3a4/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/d6cf76e0b2991cd81f5ea96db219e2b6/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.billingclient:billing:2.1.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/billing-2.1.0.aar/d07050dcf9230a59bc6e912cda495df6/AndroidManifest.xml:2:1-23:12
 INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-87:12
 INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-87:12
 INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-87:12
@@ -125,6 +126,8 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ak/.gradle/c
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0301032b8fc4c921f389251943cd83a1/AndroidManifest.xml:22:5-23:19
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/d6cf76e0b2991cd81f5ea96db219e2b6/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/d6cf76e0b2991cd81f5ea96db219e2b6/AndroidManifest.xml:11:5-20
+MERGED from [com.android.billingclient:billing:2.1.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/billing-2.1.0.aar/d07050dcf9230a59bc6e912cda495df6/AndroidManifest.xml:12:5-21:19
+MERGED from [com.android.billingclient:billing:2.1.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/billing-2.1.0.aar/d07050dcf9230a59bc6e912cda495df6/AndroidManifest.xml:12:5-21:19
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/710c926a96f813bc79bf4f15e7660c8b/AndroidManifest.xml:22:18-91
 	android:supportsRtl
@@ -317,6 +320,8 @@ MERGED from [com.facebook.fresco:fbcore:1.13.0] /Users/ak/.gradle/caches/transfo
 MERGED from [com.facebook.fresco:fbcore:1.13.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/fbcore-1.13.0.aar/f9552def324095b08141de7c9ec3b3a4/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/d6cf76e0b2991cd81f5ea96db219e2b6/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/d6cf76e0b2991cd81f5ea96db219e2b6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.billingclient:billing:2.1.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/billing-2.1.0.aar/d07050dcf9230a59bc6e912cda495df6/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.billingclient:billing:2.1.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/billing-2.1.0.aar/d07050dcf9230a59bc6e912cda495df6/AndroidManifest.xml:6:5-8:41
 INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
 INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -553,3 +558,21 @@ ADDED from [uniapp-release.aar] /Users/ak/.gradle/caches/transforms-1/files-1.1/
 		ADDED from [uniapp-release.aar] /Users/ak/.gradle/caches/transforms-1/files-1.1/uniapp-release.aar/90c662fb4d6ae0b90f2e2c5b64f5e6e0/AndroidManifest.xml:33:13-37
 	android:name
 		ADDED from [uniapp-release.aar] /Users/ak/.gradle/caches/transforms-1/files-1.1/uniapp-release.aar/90c662fb4d6ae0b90f2e2c5b64f5e6e0/AndroidManifest.xml:31:13-65
+uses-permission#com.android.vending.BILLING
+ADDED from [com.android.billingclient:billing:2.1.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/billing-2.1.0.aar/d07050dcf9230a59bc6e912cda495df6/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [com.android.billingclient:billing:2.1.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/billing-2.1.0.aar/d07050dcf9230a59bc6e912cda495df6/AndroidManifest.xml:10:22-64
+meta-data#com.google.android.play.billingclient.version
+ADDED from [com.android.billingclient:billing:2.1.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/billing-2.1.0.aar/d07050dcf9230a59bc6e912cda495df6/AndroidManifest.xml:13:9-15:37
+	android:value
+		ADDED from [com.android.billingclient:billing:2.1.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/billing-2.1.0.aar/d07050dcf9230a59bc6e912cda495df6/AndroidManifest.xml:15:13-34
+	android:name
+		ADDED from [com.android.billingclient:billing:2.1.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/billing-2.1.0.aar/d07050dcf9230a59bc6e912cda495df6/AndroidManifest.xml:14:13-73
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [com.android.billingclient:billing:2.1.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/billing-2.1.0.aar/d07050dcf9230a59bc6e912cda495df6/AndroidManifest.xml:17:9-20:75
+	android:configChanges
+		ADDED from [com.android.billingclient:billing:2.1.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/billing-2.1.0.aar/d07050dcf9230a59bc6e912cda495df6/AndroidManifest.xml:19:13-96
+	android:theme
+		ADDED from [com.android.billingclient:billing:2.1.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/billing-2.1.0.aar/d07050dcf9230a59bc6e912cda495df6/AndroidManifest.xml:20:13-72
+	android:name
+		ADDED from [com.android.billingclient:billing:2.1.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/billing-2.1.0.aar/d07050dcf9230a59bc6e912cda495df6/AndroidManifest.xml:18:13-78

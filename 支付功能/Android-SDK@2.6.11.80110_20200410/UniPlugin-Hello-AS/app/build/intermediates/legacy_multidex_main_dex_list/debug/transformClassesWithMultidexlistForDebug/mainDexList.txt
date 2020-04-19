@@ -129,6 +129,15 @@ com/alibaba/fastjson/annotation/JSONField.class
 com/alibaba/fastjson/annotation/JSONType.class
 com/alibaba/fastjson/parser/Feature.class
 com/alibaba/fastjson/serializer/SerializerFeature.class
+com/android/billingclient/api/BillingClient$BillingResponseCode.class
+com/android/billingclient/api/BillingClient$ChildDirected.class
+com/android/billingclient/api/BillingClient$FeatureType.class
+com/android/billingclient/api/BillingClient$SkuType.class
+com/android/billingclient/api/BillingClient$UnderAgeOfConsent.class
+com/android/billingclient/api/BillingClientImpl$ClientState.class
+com/android/billingclient/api/BillingClientImpl$NativeUsage.class
+com/android/billingclient/api/BillingFlowParams$ProrationMode.class
+com/android/billingclient/api/Purchase$PurchaseState.class
 com/bumptech/glide/annotation/Excludes.class
 com/bumptech/glide/annotation/GlideExtension.class
 com/bumptech/glide/annotation/GlideModule.class

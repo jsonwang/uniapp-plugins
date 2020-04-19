@@ -1,6 +1,7 @@
 package uni.dcloud.io.uniplugin_richalert;
 
 import android.app.Activity;
+import android.content.Context;
 import android.util.Log;
 
 import com.android.billingclient.api.BillingClient;
@@ -12,6 +13,8 @@ import com.android.billingclient.api.PurchasesUpdatedListener;
 import com.android.billingclient.api.SkuDetails;
 import com.android.billingclient.api.SkuDetailsParams;
 import com.android.billingclient.api.SkuDetailsResponseListener;
+import com.taobao.weex.WXSDKEngine;
+import com.taobao.weex.utils.WXResourceUtils;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -19,10 +22,10 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import androidx.annotation.Nullable;
-import androidx.lifecycle.MutableLiveData;
+//import androidx.annotation.Nullable;
+//import androidx.lifecycle.MutableLiveData;
 
-public class GooglePayUtil implements BillingClientStateListener, PurchasesUpdatedListener, SkuDetailsResponseListener {
+public class GooglePayUtil extends WXSDKEngine.DestroyableModule implements BillingClientStateListener, PurchasesUpdatedListener, SkuDetailsResponseListener {
 
     private static final String TAG = "GooglePayUtil";
 
@@ -33,15 +36,17 @@ public class GooglePayUtil implements BillingClientStateListener, PurchasesUpdat
     /**
      * SkuDetails for all known SKUs.
      */
-    public MutableLiveData<Map<String, SkuDetails>> skusWithSkuDetails = new MutableLiveData<>();
+
+    public Map<String, SkuDetails> skusWithSkuDetails =  new HashMap<String, SkuDetails>();
+
 
     /**
      * 开始时候调用，创建billingClient
      *
      */
-    public void start(List<String> skuList) {
+    public void start(List<String> skuList, Context var0 ) {
         skus = skuList;
-        billingClient = BillingClient.newBuilder(SubApp.getInstance())
+        billingClient = BillingClient.newBuilder(var0)
                 .setListener(this)
                 .enablePendingPurchases() // Not used for subscriptions.
                 .build();
@@ -60,9 +65,9 @@ public class GooglePayUtil implements BillingClientStateListener, PurchasesUpdat
     public void buy(Activity activity, String sku) {
         SkuDetails skuDetails = null;
         // Create the parameters for the purchase.
-        if (skusWithSkuDetails.getValue() != null) {
-            skuDetails = skusWithSkuDetails.getValue().get(sku);
-        }
+//        if (skusWithSkuDetails.getValue() != null) {
+//            skuDetails = skusWithSkuDetails.getValue().get(sku);
+//        }
 
         if (skuDetails == null) {
             Log.e("Billing", "Could not find SkuDetails to make purchase.");
@@ -125,7 +130,7 @@ public class GooglePayUtil implements BillingClientStateListener, PurchasesUpdat
     }
 
     @Override
-    public void onPurchasesUpdated(BillingResult billingResult, @Nullable List<Purchase> list) {
+    public void onPurchasesUpdated(BillingResult billingResult,  List<Purchase> list) {
         if (billingResult == null) {
             Log.wtf(TAG, "onPurchasesUpdated: null BillingResult");
             return;
@@ -170,17 +175,17 @@ public class GooglePayUtil implements BillingClientStateListener, PurchasesUpdat
         String debugMessage = billingResult.getDebugMessage();
         switch (responseCode) {
             case BillingClient.BillingResponseCode.OK:
-                Log.i(TAG, "onSkuDetailsResponse: " + responseCode + " " + debugMessage);
+                Log.i(TAG, "onSkuDetailsResponse  222: " + responseCode + " " + debugMessage);
                 if (list == null) {
-                    Log.w(TAG, "onSkuDetailsResponse: null SkuDetails list");
+                    Log.w(TAG, "onSkuDetailsResponse 2222: null SkuDetails list");
 //                    skusWithSkuDetails.postValue(Collections.<String, SkuDetails>emptyMap());
                 } else {
                     Map<String, SkuDetails> newSkusDetailList = new HashMap<String, SkuDetails>();
                     for (SkuDetails skuDetails : list) {
                         newSkusDetailList.put(skuDetails.getSku(), skuDetails);
                     }
-                    skusWithSkuDetails.postValue(newSkusDetailList);
-                    Log.i(TAG, "onSkuDetailsResponse: count " + newSkusDetailList.size());
+//                    skusWithSkuDetails.postValue(newSkusDetailList);
+                    Log.i(TAG, "onSkuDetailsResponse333: count " + newSkusDetailList.size());
                 }
                 break;
             case BillingClient.BillingResponseCode.SERVICE_DISCONNECTED:
@@ -189,17 +194,17 @@ public class GooglePayUtil implements BillingClientStateListener, PurchasesUpdat
             case BillingClient.BillingResponseCode.ITEM_UNAVAILABLE:
             case BillingClient.BillingResponseCode.DEVELOPER_ERROR:
             case BillingClient.BillingResponseCode.ERROR:
-                Log.e(TAG, "onSkuDetailsResponse: " + responseCode + " " + debugMessage);
+                Log.e(TAG, "onSkuDetailsResponse:444 " + responseCode + " " + debugMessage);
                 break;
             case BillingClient.BillingResponseCode.USER_CANCELED:
-                Log.i(TAG, "onSkuDetailsResponse: " + responseCode + " " + debugMessage);
+                Log.i(TAG, "onSkuDetailsResponse:5555 " + responseCode + " " + debugMessage);
                 break;
             // These response codes are not expected.
             case BillingClient.BillingResponseCode.FEATURE_NOT_SUPPORTED:
             case BillingClient.BillingResponseCode.ITEM_ALREADY_OWNED:
             case BillingClient.BillingResponseCode.ITEM_NOT_OWNED:
             default:
-                Log.wtf(TAG, "onSkuDetailsResponse: " + responseCode + " " + debugMessage);
+                Log.wtf(TAG, "onSkuDetailsResponse ak: " + responseCode + " " + debugMessage);
         }
 
     }

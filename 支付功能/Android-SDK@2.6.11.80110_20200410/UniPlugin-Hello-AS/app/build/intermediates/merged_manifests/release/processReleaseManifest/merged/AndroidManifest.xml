@@ -34,7 +34,8 @@
     <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-    <uses-permission android:name="com.asus.msa.SupplementaryDID.ACCESS" /> <!-- Barcode(二维码)  end -->
+    <uses-permission android:name="com.asus.msa.SupplementaryDID.ACCESS" />
+    <uses-permission android:name="com.android.vending.BILLING" /> <!-- Barcode(二维码)  end -->
     <application
         android:name="io.dcloud.application.DCloudApplication"
         android:allowBackup="true"
@@ -249,6 +250,15 @@
             android:enabled="true"
             android:exported="false" >
         </receiver>
+
+        <meta-data
+            android:name="com.google.android.play.billingclient.version"
+            android:value="2.1.0" />
+
+        <activity
+            android:name="com.android.billingclient.api.ProxyBillingActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
     </application>
 
 </manifest>

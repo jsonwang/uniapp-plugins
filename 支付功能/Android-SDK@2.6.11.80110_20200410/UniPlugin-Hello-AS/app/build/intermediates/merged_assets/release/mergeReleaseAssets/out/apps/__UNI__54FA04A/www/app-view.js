@@ -1079,6 +1079,9 @@ Z([3,'购买内购'])
 Z(z[0])
 Z([[4],[[5],[[4],[[5],[[5],[1,'tap']],[[4],[[5],[[4],[[5],[[5],[1,'PaySubscript']],[[4],[[5],[1,'$event']]]]]]]]]]])
 Z([3,'购买订阅'])
+Z(z[0])
+Z([[4],[[5],[[4],[[5],[[5],[1,'tap']],[[4],[[5],[[4],[[5],[[5],[1,'showRichAlert']],[[4],[[5],[1,'$event']]]]]]]]]]])
+Z([3,'showRichAlert'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_1);return __WXML_GLOBAL__.ops_cached.$gwx_1
 }
 __WXML_GLOBAL__.ops_set.$gwx=z;
@@ -1113,6 +1116,10 @@ var tM=_mz(z,'button',['bindtap',15,'data-event-opts',1],[],e,s,gg)
 var eN=_oz(z,17,e,s,gg)
 _(tM,eN)
 _(oB,tM)
+var bO=_mz(z,'button',['bindtap',18,'data-event-opts',1],[],e,s,gg)
+var oP=_oz(z,20,e,s,gg)
+_(bO,oP)
+_(oB,bO)
 _(r,oB)
 return r
 }
