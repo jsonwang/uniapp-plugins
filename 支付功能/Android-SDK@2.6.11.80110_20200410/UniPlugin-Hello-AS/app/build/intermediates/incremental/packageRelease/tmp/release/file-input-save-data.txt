@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Apr 19 12:56:15 CST 2020
+#Sun Apr 19 13:56:14 CST 2020
 60.set=ASSET
 52.set=ASSET
 53.base=/Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/merged_assets/release/mergeReleaseAssets/out

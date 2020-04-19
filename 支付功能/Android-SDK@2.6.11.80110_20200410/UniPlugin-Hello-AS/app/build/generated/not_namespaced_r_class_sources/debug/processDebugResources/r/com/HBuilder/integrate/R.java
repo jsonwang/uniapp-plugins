@@ -4453,39 +4453,39 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.HBuilder.integrate:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.HBuilder.integrate:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.HBuilder.integrate:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.HBuilder.integrate:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.HBuilder.integrate:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
+     * <tr><td><code>{@link #ActionBar_background com.match.date.welo:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.match.date.welo:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.match.date.welo:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.match.date.welo:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.match.date.welo:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
      * are present.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.HBuilder.integrate:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.HBuilder.integrate:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.HBuilder.integrate:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.HBuilder.integrate:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.match.date.welo:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.match.date.welo:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.match.date.welo:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.match.date.welo:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button.</td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.HBuilder.integrate:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.HBuilder.integrate:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.HBuilder.integrate:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.HBuilder.integrate:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.HBuilder.integrate:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.HBuilder.integrate:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.HBuilder.integrate:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.HBuilder.integrate:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.HBuilder.integrate:icon}</code></td><td>Specifies the drawable used for the application icon.</td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.HBuilder.integrate:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.HBuilder.integrate:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.match.date.welo:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.match.date.welo:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.match.date.welo:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.match.date.welo:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.match.date.welo:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.match.date.welo:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.match.date.welo:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.match.date.welo:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.match.date.welo:icon}</code></td><td>Specifies the drawable used for the application icon.</td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.match.date.welo:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.match.date.welo:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
      * system-provided items in the bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.HBuilder.integrate:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.HBuilder.integrate:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.HBuilder.integrate:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #ActionBar_logo com.match.date.welo:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.match.date.welo:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.match.date.welo:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.HBuilder.integrate:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.HBuilder.integrate:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.HBuilder.integrate:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.HBuilder.integrate:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.HBuilder.integrate:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.HBuilder.integrate:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.match.date.welo:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.match.date.welo:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.match.date.welo:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.match.date.welo:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.match.date.welo:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.match.date.welo:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -4537,7 +4537,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:background
+     * @attr name com.match.date.welo:background
      */
     public static final int ActionBar_background=0;
     /**
@@ -4553,7 +4553,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:backgroundSplit
+     * @attr name com.match.date.welo:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
@@ -4569,7 +4569,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:backgroundStacked
+     * @attr name com.match.date.welo:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
@@ -4584,7 +4584,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:contentInsetEnd
+     * @attr name com.match.date.welo:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
@@ -4599,7 +4599,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:contentInsetEndWithActions
+     * @attr name com.match.date.welo:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
@@ -4614,7 +4614,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:contentInsetLeft
+     * @attr name com.match.date.welo:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
@@ -4629,7 +4629,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:contentInsetRight
+     * @attr name com.match.date.welo:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
@@ -4644,7 +4644,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:contentInsetStart
+     * @attr name com.match.date.welo:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
@@ -4659,7 +4659,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:contentInsetStartWithNavigation
+     * @attr name com.match.date.welo:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
@@ -4672,7 +4672,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:customNavigationLayout
+     * @attr name com.match.date.welo:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
@@ -4695,7 +4695,7 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:displayOptions
+     * @attr name com.match.date.welo:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
@@ -4708,7 +4708,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:divider
+     * @attr name com.match.date.welo:divider
      */
     public static final int ActionBar_divider=11;
     /**
@@ -4722,7 +4722,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:elevation
+     * @attr name com.match.date.welo:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
@@ -4736,7 +4736,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:height
+     * @attr name com.match.date.welo:height
      */
     public static final int ActionBar_height=13;
     /**
@@ -4747,7 +4747,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:hideOnContentScroll
+     * @attr name com.match.date.welo:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
@@ -4760,7 +4760,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:homeAsUpIndicator
+     * @attr name com.match.date.welo:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
@@ -4773,7 +4773,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:homeLayout
+     * @attr name com.match.date.welo:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
@@ -4786,7 +4786,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:icon
+     * @attr name com.match.date.welo:icon
      */
     public static final int ActionBar_icon=17;
     /**
@@ -4799,7 +4799,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:indeterminateProgressStyle
+     * @attr name com.match.date.welo:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
@@ -4814,7 +4814,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:itemPadding
+     * @attr name com.match.date.welo:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
@@ -4827,7 +4827,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:logo
+     * @attr name com.match.date.welo:logo
      */
     public static final int ActionBar_logo=20;
     /**
@@ -4846,7 +4846,7 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td>The action bar will use a series of horizontal tabs for navigation.</td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:navigationMode
+     * @attr name com.match.date.welo:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
@@ -4860,7 +4860,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:popupTheme
+     * @attr name com.match.date.welo:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
@@ -4874,7 +4874,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:progressBarPadding
+     * @attr name com.match.date.welo:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
@@ -4887,7 +4887,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:progressBarStyle
+     * @attr name com.match.date.welo:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
@@ -4898,7 +4898,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:subtitle
+     * @attr name com.match.date.welo:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
@@ -4911,7 +4911,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:subtitleTextStyle
+     * @attr name com.match.date.welo:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
@@ -4922,7 +4922,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:title
+     * @attr name com.match.date.welo:title
      */
     public static final int ActionBar_title=27;
     /**
@@ -4935,7 +4935,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:titleTextStyle
+     * @attr name com.match.date.welo:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -5017,12 +5017,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.HBuilder.integrate:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.HBuilder.integrate:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.HBuilder.integrate:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.HBuilder.integrate:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.HBuilder.integrate:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.HBuilder.integrate:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.match.date.welo:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.match.date.welo:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.match.date.welo:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.match.date.welo:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.match.date.welo:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.match.date.welo:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -5045,7 +5045,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:background
+     * @attr name com.match.date.welo:background
      */
     public static final int ActionMode_background=0;
     /**
@@ -5061,7 +5061,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:backgroundSplit
+     * @attr name com.match.date.welo:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
@@ -5074,7 +5074,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:closeItemLayout
+     * @attr name com.match.date.welo:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
@@ -5088,7 +5088,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:height
+     * @attr name com.match.date.welo:height
      */
     public static final int ActionMode_height=3;
     /**
@@ -5101,7 +5101,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:subtitleTextStyle
+     * @attr name com.match.date.welo:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
@@ -5114,7 +5114,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:titleTextStyle
+     * @attr name com.match.date.welo:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -5124,21 +5124,21 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionSheet_actionSheetBackground com.HBuilder.integrate:actionSheetBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_actionSheetPadding com.HBuilder.integrate:actionSheetPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_actionSheetTextSize com.HBuilder.integrate:actionSheetTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_cancelButtonBackground com.HBuilder.integrate:cancelButtonBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_cancelButtonMarginTop com.HBuilder.integrate:cancelButtonMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_cancelButtonTextColor com.HBuilder.integrate:cancelButtonTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_destructiveButtonTextColor com.HBuilder.integrate:destructiveButtonTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_otherButtonBottomBackground com.HBuilder.integrate:otherButtonBottomBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_otherButtonMiddleBackground com.HBuilder.integrate:otherButtonMiddleBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_otherButtonSingleBackground com.HBuilder.integrate:otherButtonSingleBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_otherButtonSpacing com.HBuilder.integrate:otherButtonSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_otherButtonTextColor com.HBuilder.integrate:otherButtonTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_otherButtonTitleBackground com.HBuilder.integrate:otherButtonTitleBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_otherButtonTopBackground com.HBuilder.integrate:otherButtonTopBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_titleButtonTextColor com.HBuilder.integrate:titleButtonTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_actionSheetBackground com.match.date.welo:actionSheetBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_actionSheetPadding com.match.date.welo:actionSheetPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_actionSheetTextSize com.match.date.welo:actionSheetTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_cancelButtonBackground com.match.date.welo:cancelButtonBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_cancelButtonMarginTop com.match.date.welo:cancelButtonMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_cancelButtonTextColor com.match.date.welo:cancelButtonTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_destructiveButtonTextColor com.match.date.welo:destructiveButtonTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_otherButtonBottomBackground com.match.date.welo:otherButtonBottomBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_otherButtonMiddleBackground com.match.date.welo:otherButtonMiddleBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_otherButtonSingleBackground com.match.date.welo:otherButtonSingleBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_otherButtonSpacing com.match.date.welo:otherButtonSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_otherButtonTextColor com.match.date.welo:otherButtonTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_otherButtonTitleBackground com.match.date.welo:otherButtonTitleBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_otherButtonTopBackground com.match.date.welo:otherButtonTopBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_titleButtonTextColor com.match.date.welo:titleButtonTextColor}</code></td><td></td></tr>
      * </table>
      * @see #ActionSheet_actionSheetBackground
      * @see #ActionSheet_actionSheetPadding
@@ -5163,7 +5163,7 @@ public final class R {
       0x7f0200cb, 0x7f0200cc, 0x7f020141
     };
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#actionSheetBackground}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#actionSheetBackground}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5174,11 +5174,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionSheetBackground
+     * @attr name com.match.date.welo:actionSheetBackground
      */
     public static final int ActionSheet_actionSheetBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#actionSheetPadding}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#actionSheetPadding}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5191,11 +5191,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:actionSheetPadding
+     * @attr name com.match.date.welo:actionSheetPadding
      */
     public static final int ActionSheet_actionSheetPadding=1;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#actionSheetTextSize}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#actionSheetTextSize}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5208,11 +5208,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:actionSheetTextSize
+     * @attr name com.match.date.welo:actionSheetTextSize
      */
     public static final int ActionSheet_actionSheetTextSize=2;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#cancelButtonBackground}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#cancelButtonBackground}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5223,11 +5223,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:cancelButtonBackground
+     * @attr name com.match.date.welo:cancelButtonBackground
      */
     public static final int ActionSheet_cancelButtonBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#cancelButtonMarginTop}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#cancelButtonMarginTop}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5240,11 +5240,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:cancelButtonMarginTop
+     * @attr name com.match.date.welo:cancelButtonMarginTop
      */
     public static final int ActionSheet_cancelButtonMarginTop=4;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#cancelButtonTextColor}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#cancelButtonTextColor}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5255,11 +5255,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:cancelButtonTextColor
+     * @attr name com.match.date.welo:cancelButtonTextColor
      */
     public static final int ActionSheet_cancelButtonTextColor=5;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#destructiveButtonTextColor}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#destructiveButtonTextColor}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5270,11 +5270,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:destructiveButtonTextColor
+     * @attr name com.match.date.welo:destructiveButtonTextColor
      */
     public static final int ActionSheet_destructiveButtonTextColor=6;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#otherButtonBottomBackground}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#otherButtonBottomBackground}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5285,11 +5285,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:otherButtonBottomBackground
+     * @attr name com.match.date.welo:otherButtonBottomBackground
      */
     public static final int ActionSheet_otherButtonBottomBackground=7;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#otherButtonMiddleBackground}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#otherButtonMiddleBackground}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5300,11 +5300,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:otherButtonMiddleBackground
+     * @attr name com.match.date.welo:otherButtonMiddleBackground
      */
     public static final int ActionSheet_otherButtonMiddleBackground=8;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#otherButtonSingleBackground}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#otherButtonSingleBackground}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5315,11 +5315,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:otherButtonSingleBackground
+     * @attr name com.match.date.welo:otherButtonSingleBackground
      */
     public static final int ActionSheet_otherButtonSingleBackground=9;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#otherButtonSpacing}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#otherButtonSpacing}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5332,11 +5332,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:otherButtonSpacing
+     * @attr name com.match.date.welo:otherButtonSpacing
      */
     public static final int ActionSheet_otherButtonSpacing=10;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#otherButtonTextColor}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#otherButtonTextColor}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5347,11 +5347,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:otherButtonTextColor
+     * @attr name com.match.date.welo:otherButtonTextColor
      */
     public static final int ActionSheet_otherButtonTextColor=11;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#otherButtonTitleBackground}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#otherButtonTitleBackground}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5362,11 +5362,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:otherButtonTitleBackground
+     * @attr name com.match.date.welo:otherButtonTitleBackground
      */
     public static final int ActionSheet_otherButtonTitleBackground=12;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#otherButtonTopBackground}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#otherButtonTopBackground}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5377,11 +5377,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:otherButtonTopBackground
+     * @attr name com.match.date.welo:otherButtonTopBackground
      */
     public static final int ActionSheet_otherButtonTopBackground=13;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#titleButtonTextColor}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#titleButtonTextColor}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5392,7 +5392,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:titleButtonTextColor
+     * @attr name com.match.date.welo:titleButtonTextColor
      */
     public static final int ActionSheet_titleButtonTextColor=14;
     /**
@@ -5402,7 +5402,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionSheets_actionSheetStyle com.HBuilder.integrate:actionSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheets_actionSheetStyle com.match.date.welo:actionSheetStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionSheets_actionSheetStyle
      */
@@ -5410,7 +5410,7 @@ public final class R {
       0x7f020022
     };
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#actionSheetStyle}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#actionSheetStyle}
      * attribute's value can be found in the {@link #ActionSheets} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5418,7 +5418,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionSheetStyle
+     * @attr name com.match.date.welo:actionSheetStyle
      */
     public static final int ActionSheets_actionSheetStyle=0;
     /**
@@ -5428,8 +5428,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.HBuilder.integrate:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.HBuilder.integrate:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.match.date.welo:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.match.date.welo:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -5451,7 +5451,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:expandActivityOverflowButtonDrawable
+     * @attr name com.match.date.welo:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
@@ -5462,7 +5462,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:initialActivityCount
+     * @attr name com.match.date.welo:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -5473,13 +5473,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.HBuilder.integrate:buttonIconDimen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.HBuilder.integrate:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.HBuilder.integrate:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.HBuilder.integrate:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.HBuilder.integrate:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.HBuilder.integrate:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.HBuilder.integrate:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.match.date.welo:buttonIconDimen}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.match.date.welo:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.match.date.welo:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.match.date.welo:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.match.date.welo:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.match.date.welo:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.match.date.welo:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonIconDimen
@@ -5507,7 +5507,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#buttonIconDimen}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#buttonIconDimen}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5516,11 +5516,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:buttonIconDimen
+     * @attr name com.match.date.welo:buttonIconDimen
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5528,11 +5528,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:buttonPanelSideLayout
+     * @attr name com.match.date.welo:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5540,11 +5540,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:listItemLayout
+     * @attr name com.match.date.welo:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5552,11 +5552,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:listLayout
+     * @attr name com.match.date.welo:listLayout
      */
     public static final int AlertDialog_listLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5564,21 +5564,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:multiChoiceItemLayout
+     * @attr name com.match.date.welo:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:showTitle
+     * @attr name com.match.date.welo:showTitle
      */
     public static final int AlertDialog_showTitle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5586,7 +5586,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:singleChoiceItemLayout
+     * @attr name com.match.date.welo:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=7;
     /**
@@ -5810,9 +5810,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.HBuilder.integrate:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.HBuilder.integrate:tint}</code></td><td>Tint to apply to the image source.</td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.HBuilder.integrate:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.match.date.welo:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.match.date.welo:tint}</code></td><td>Tint to apply to the image source.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.match.date.welo:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -5848,7 +5848,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:srcCompat
+     * @attr name com.match.date.welo:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
@@ -5860,7 +5860,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:tint
+     * @attr name com.match.date.welo:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
@@ -5887,7 +5887,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:tintMode
+     * @attr name com.match.date.welo:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -5898,9 +5898,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.HBuilder.integrate:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.HBuilder.integrate:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.HBuilder.integrate:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.match.date.welo:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.match.date.welo:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.match.date.welo:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -5932,7 +5932,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:tickMark
+     * @attr name com.match.date.welo:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
@@ -5944,7 +5944,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:tickMarkTint
+     * @attr name com.match.date.welo:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
@@ -5971,7 +5971,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:tickMarkTintMode
+     * @attr name com.match.date.welo:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -6111,18 +6111,18 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.HBuilder.integrate:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.HBuilder.integrate:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.HBuilder.integrate:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.match.date.welo:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.match.date.welo:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.match.date.welo:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
      * <code>autoSizeTextType</code> set to <code>uniform</code>.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.HBuilder.integrate:autoSizeStepGranularity}</code></td><td>Specify the auto-size step size if <code>autoSizeTextType</code> is set to
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.match.date.welo:autoSizeStepGranularity}</code></td><td>Specify the auto-size step size if <code>autoSizeTextType</code> is set to
      * <code>uniform</code>.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.HBuilder.integrate:autoSizeTextType}</code></td><td>Specify the type of auto-size.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.HBuilder.integrate:firstBaselineToTopHeight}</code></td><td>Distance from the top of the TextView to the first text baseline.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.HBuilder.integrate:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.HBuilder.integrate:lastBaselineToBottomHeight}</code></td><td>Distance from the bottom of the TextView to the last text baseline.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.HBuilder.integrate:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.HBuilder.integrate:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.match.date.welo:autoSizeTextType}</code></td><td>Specify the type of auto-size.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.match.date.welo:firstBaselineToTopHeight}</code></td><td>Distance from the top of the TextView to the first text baseline.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.match.date.welo:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.match.date.welo:lastBaselineToBottomHeight}</code></td><td>Distance from the bottom of the TextView to the last text baseline.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.match.date.welo:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.match.date.welo:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -6164,7 +6164,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:autoSizeMaxTextSize
+     * @attr name com.match.date.welo:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
@@ -6178,7 +6178,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:autoSizeMinTextSize
+     * @attr name com.match.date.welo:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
@@ -6193,7 +6193,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:autoSizePresetSizes
+     * @attr name com.match.date.welo:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
@@ -6209,7 +6209,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:autoSizeStepGranularity
+     * @attr name com.match.date.welo:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
@@ -6229,7 +6229,7 @@ public final class R {
      * container.</td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:autoSizeTextType
+     * @attr name com.match.date.welo:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
@@ -6244,7 +6244,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:firstBaselineToTopHeight
+     * @attr name com.match.date.welo:firstBaselineToTopHeight
      */
     public static final int AppCompatTextView_firstBaselineToTopHeight=6;
     /**
@@ -6255,7 +6255,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:fontFamily
+     * @attr name com.match.date.welo:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=7;
     /**
@@ -6270,7 +6270,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:lastBaselineToBottomHeight
+     * @attr name com.match.date.welo:lastBaselineToBottomHeight
      */
     public static final int AppCompatTextView_lastBaselineToBottomHeight=8;
     /**
@@ -6285,7 +6285,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:lineHeight
+     * @attr name com.match.date.welo:lineHeight
      */
     public static final int AppCompatTextView_lineHeight=9;
     /**
@@ -6300,7 +6300,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:textAllCaps
+     * @attr name com.match.date.welo:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=10;
     /**
@@ -6312,142 +6312,142 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.HBuilder.integrate:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.HBuilder.integrate:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.HBuilder.integrate:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.match.date.welo:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.match.date.welo:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.match.date.welo:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.HBuilder.integrate:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.match.date.welo:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
      * bar used to present Action Modes.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.HBuilder.integrate:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.HBuilder.integrate:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.HBuilder.integrate:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.HBuilder.integrate:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.HBuilder.integrate:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.HBuilder.integrate:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.match.date.welo:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.match.date.welo:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.match.date.welo:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.match.date.welo:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.match.date.welo:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.match.date.welo:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
      * action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.HBuilder.integrate:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.match.date.welo:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
      * and layouts destined for the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.HBuilder.integrate:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.HBuilder.integrate:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.HBuilder.integrate:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.match.date.welo:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.match.date.welo:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.match.date.welo:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
      * appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.HBuilder.integrate:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.HBuilder.integrate:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.HBuilder.integrate:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.HBuilder.integrate:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.HBuilder.integrate:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.HBuilder.integrate:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.HBuilder.integrate:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.HBuilder.integrate:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.HBuilder.integrate:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.HBuilder.integrate:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.HBuilder.integrate:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.HBuilder.integrate:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.HBuilder.integrate:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.HBuilder.integrate:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.HBuilder.integrate:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.HBuilder.integrate:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.HBuilder.integrate:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.HBuilder.integrate:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.HBuilder.integrate:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.HBuilder.integrate:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.HBuilder.integrate:alertDialogTheme}</code></td><td>Theme to use for alert dialogs spawned from this theme.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.HBuilder.integrate:autoCompleteTextViewStyle}</code></td><td>Default AutoCompleteTextView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.HBuilder.integrate:borderlessButtonStyle}</code></td><td>Style for buttons without an explicit border, often used in groups.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.HBuilder.integrate:buttonBarButtonStyle}</code></td><td>Style for buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.HBuilder.integrate:buttonBarNegativeButtonStyle}</code></td><td>Style for the "negative" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.HBuilder.integrate:buttonBarNeutralButtonStyle}</code></td><td>Style for the "neutral" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.HBuilder.integrate:buttonBarPositiveButtonStyle}</code></td><td>Style for the "positive" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.HBuilder.integrate:buttonBarStyle}</code></td><td>Style for button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.HBuilder.integrate:buttonStyle}</code></td><td>Normal Button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.HBuilder.integrate:buttonStyleSmall}</code></td><td>Small Button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.HBuilder.integrate:checkboxStyle}</code></td><td>Default Checkbox style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.HBuilder.integrate:checkedTextViewStyle}</code></td><td>Default CheckedTextView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.HBuilder.integrate:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.HBuilder.integrate:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.HBuilder.integrate:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.HBuilder.integrate:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.HBuilder.integrate:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.HBuilder.integrate:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.HBuilder.integrate:colorError}</code></td><td>Color used for error states and things that need to be drawn to
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.match.date.welo:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.match.date.welo:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.match.date.welo:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.match.date.welo:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.match.date.welo:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.match.date.welo:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.match.date.welo:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.match.date.welo:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.match.date.welo:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.match.date.welo:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.match.date.welo:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.match.date.welo:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.match.date.welo:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.match.date.welo:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.match.date.welo:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.match.date.welo:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.match.date.welo:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.match.date.welo:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.match.date.welo:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.match.date.welo:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.match.date.welo:alertDialogTheme}</code></td><td>Theme to use for alert dialogs spawned from this theme.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.match.date.welo:autoCompleteTextViewStyle}</code></td><td>Default AutoCompleteTextView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.match.date.welo:borderlessButtonStyle}</code></td><td>Style for buttons without an explicit border, often used in groups.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.match.date.welo:buttonBarButtonStyle}</code></td><td>Style for buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.match.date.welo:buttonBarNegativeButtonStyle}</code></td><td>Style for the "negative" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.match.date.welo:buttonBarNeutralButtonStyle}</code></td><td>Style for the "neutral" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.match.date.welo:buttonBarPositiveButtonStyle}</code></td><td>Style for the "positive" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.match.date.welo:buttonBarStyle}</code></td><td>Style for button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.match.date.welo:buttonStyle}</code></td><td>Normal Button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.match.date.welo:buttonStyleSmall}</code></td><td>Small Button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.match.date.welo:checkboxStyle}</code></td><td>Default Checkbox style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.match.date.welo:checkedTextViewStyle}</code></td><td>Default CheckedTextView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.match.date.welo:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.match.date.welo:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.match.date.welo:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.match.date.welo:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.match.date.welo:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.match.date.welo:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.match.date.welo:colorError}</code></td><td>Color used for error states and things that need to be drawn to
      * the user's attention.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.HBuilder.integrate:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.HBuilder.integrate:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.HBuilder.integrate:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.HBuilder.integrate:controlBackground}</code></td><td>The background used by framework controls.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.HBuilder.integrate:dialogCornerRadius}</code></td><td>Preferred corner radius of dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.HBuilder.integrate:dialogPreferredPadding}</code></td><td>Preferred padding for dialog content.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.HBuilder.integrate:dialogTheme}</code></td><td>Theme to use for dialogs spawned from this theme.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.HBuilder.integrate:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.HBuilder.integrate:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.HBuilder.integrate:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.HBuilder.integrate:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.HBuilder.integrate:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.HBuilder.integrate:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.HBuilder.integrate:editTextStyle}</code></td><td>Default EditText style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.HBuilder.integrate:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.HBuilder.integrate:imageButtonStyle}</code></td><td>ImageButton background drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.HBuilder.integrate:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.HBuilder.integrate:listDividerAlertDialog}</code></td><td>The list divider used in alert dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.HBuilder.integrate:listMenuViewStyle}</code></td><td>Default menu-style ListView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.HBuilder.integrate:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.HBuilder.integrate:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.HBuilder.integrate:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.HBuilder.integrate:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.HBuilder.integrate:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.HBuilder.integrate:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.HBuilder.integrate:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.HBuilder.integrate:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.HBuilder.integrate:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.HBuilder.integrate:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.HBuilder.integrate:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.HBuilder.integrate:radioButtonStyle}</code></td><td>Default RadioButton style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.HBuilder.integrate:ratingBarStyle}</code></td><td>Default RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.HBuilder.integrate:ratingBarStyleIndicator}</code></td><td>Indicator RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.HBuilder.integrate:ratingBarStyleSmall}</code></td><td>Small indicator RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.HBuilder.integrate:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.HBuilder.integrate:seekBarStyle}</code></td><td>Default SeekBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.HBuilder.integrate:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.match.date.welo:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.match.date.welo:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.match.date.welo:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.match.date.welo:controlBackground}</code></td><td>The background used by framework controls.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.match.date.welo:dialogCornerRadius}</code></td><td>Preferred corner radius of dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.match.date.welo:dialogPreferredPadding}</code></td><td>Preferred padding for dialog content.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.match.date.welo:dialogTheme}</code></td><td>Theme to use for dialogs spawned from this theme.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.match.date.welo:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.match.date.welo:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.match.date.welo:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.match.date.welo:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.match.date.welo:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.match.date.welo:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.match.date.welo:editTextStyle}</code></td><td>Default EditText style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.match.date.welo:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.match.date.welo:imageButtonStyle}</code></td><td>ImageButton background drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.match.date.welo:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.match.date.welo:listDividerAlertDialog}</code></td><td>The list divider used in alert dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.match.date.welo:listMenuViewStyle}</code></td><td>Default menu-style ListView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.match.date.welo:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.match.date.welo:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.match.date.welo:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.match.date.welo:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.match.date.welo:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.match.date.welo:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.match.date.welo:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.match.date.welo:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.match.date.welo:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.match.date.welo:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.match.date.welo:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.match.date.welo:radioButtonStyle}</code></td><td>Default RadioButton style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.match.date.welo:ratingBarStyle}</code></td><td>Default RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.match.date.welo:ratingBarStyleIndicator}</code></td><td>Indicator RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.match.date.welo:ratingBarStyleSmall}</code></td><td>Small indicator RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.match.date.welo:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.match.date.welo:seekBarStyle}</code></td><td>Default SeekBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.match.date.welo:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
      * that should react to pressed and focus states, but that do not
      * have a clear visual border along the edges.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.HBuilder.integrate:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.HBuilder.integrate:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.HBuilder.integrate:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.HBuilder.integrate:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.HBuilder.integrate:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.HBuilder.integrate:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.HBuilder.integrate:textAppearanceListItemSecondary}</code></td><td>The preferred TextAppearance for the secondary text of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.HBuilder.integrate:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.HBuilder.integrate:textAppearancePopupMenuHeader}</code></td><td>Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.HBuilder.integrate:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.HBuilder.integrate:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.HBuilder.integrate:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.HBuilder.integrate:textColorAlertDialogListItem}</code></td><td>Color of list item text in alert dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.HBuilder.integrate:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.HBuilder.integrate:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.HBuilder.integrate:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.HBuilder.integrate:tooltipForegroundColor}</code></td><td>Foreground color to use for tooltips</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.HBuilder.integrate:tooltipFrameBackground}</code></td><td>Background to use for tooltips</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.HBuilder.integrate:viewInflaterClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.HBuilder.integrate:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.match.date.welo:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.match.date.welo:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.match.date.welo:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.match.date.welo:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.match.date.welo:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.match.date.welo:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.match.date.welo:textAppearanceListItemSecondary}</code></td><td>The preferred TextAppearance for the secondary text of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.match.date.welo:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.match.date.welo:textAppearancePopupMenuHeader}</code></td><td>Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.match.date.welo:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.match.date.welo:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.match.date.welo:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.match.date.welo:textColorAlertDialogListItem}</code></td><td>Color of list item text in alert dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.match.date.welo:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.match.date.welo:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.match.date.welo:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.match.date.welo:tooltipForegroundColor}</code></td><td>Foreground color to use for tooltips</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.match.date.welo:tooltipFrameBackground}</code></td><td>Background to use for tooltips</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.match.date.welo:viewInflaterClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.match.date.welo:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
      * in place of the usual title bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.HBuilder.integrate:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.match.date.welo:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
      * application content.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.HBuilder.integrate:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.match.date.welo:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
      * when there is not reserved space for their UI (such as an Action Bar).</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.HBuilder.integrate:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.match.date.welo:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
      * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.HBuilder.integrate:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.match.date.welo:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
      * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.HBuilder.integrate:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.match.date.welo:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
      * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.HBuilder.integrate:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.match.date.welo:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
      * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.HBuilder.integrate:windowMinWidthMajor}</code></td><td>The minimum width the window is allowed to be, along the major
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.match.date.welo:windowMinWidthMajor}</code></td><td>The minimum width the window is allowed to be, along the major
      * axis of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.HBuilder.integrate:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.match.date.welo:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
      * axis of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.HBuilder.integrate:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.match.date.welo:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -6636,7 +6636,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionBarDivider
+     * @attr name com.match.date.welo:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
@@ -6649,7 +6649,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionBarItemBackground
+     * @attr name com.match.date.welo:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
@@ -6663,7 +6663,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionBarPopupTheme
+     * @attr name com.match.date.welo:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
@@ -6686,7 +6686,7 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:actionBarSize
+     * @attr name com.match.date.welo:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
@@ -6702,7 +6702,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionBarSplitStyle
+     * @attr name com.match.date.welo:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
@@ -6715,11 +6715,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionBarStyle
+     * @attr name com.match.date.welo:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6727,7 +6727,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionBarTabBarStyle
+     * @attr name com.match.date.welo:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
@@ -6740,11 +6740,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionBarTabStyle
+     * @attr name com.match.date.welo:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6752,7 +6752,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionBarTabTextStyle
+     * @attr name com.match.date.welo:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
@@ -6767,7 +6767,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionBarTheme
+     * @attr name com.match.date.welo:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
@@ -6786,7 +6786,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionBarWidgetTheme
+     * @attr name com.match.date.welo:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
@@ -6799,7 +6799,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionButtonStyle
+     * @attr name com.match.date.welo:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
@@ -6812,7 +6812,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionDropDownStyle
+     * @attr name com.match.date.welo:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
@@ -6826,7 +6826,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionMenuTextAppearance
+     * @attr name com.match.date.welo:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
@@ -6842,7 +6842,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionMenuTextColor
+     * @attr name com.match.date.welo:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
@@ -6855,11 +6855,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionModeBackground
+     * @attr name com.match.date.welo:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6867,7 +6867,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionModeCloseButtonStyle
+     * @attr name com.match.date.welo:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
@@ -6880,7 +6880,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionModeCloseDrawable
+     * @attr name com.match.date.welo:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
@@ -6893,7 +6893,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionModeCopyDrawable
+     * @attr name com.match.date.welo:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
@@ -6906,7 +6906,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionModeCutDrawable
+     * @attr name com.match.date.welo:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
@@ -6919,7 +6919,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionModeFindDrawable
+     * @attr name com.match.date.welo:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
@@ -6932,7 +6932,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionModePasteDrawable
+     * @attr name com.match.date.welo:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
@@ -6945,7 +6945,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionModePopupWindowStyle
+     * @attr name com.match.date.welo:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
@@ -6958,7 +6958,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionModeSelectAllDrawable
+     * @attr name com.match.date.welo:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
@@ -6971,7 +6971,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionModeShareDrawable
+     * @attr name com.match.date.welo:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
@@ -6984,11 +6984,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionModeSplitBackground
+     * @attr name com.match.date.welo:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6996,7 +6996,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionModeStyle
+     * @attr name com.match.date.welo:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
@@ -7009,11 +7009,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionModeWebSearchDrawable
+     * @attr name com.match.date.welo:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7021,11 +7021,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionOverflowButtonStyle
+     * @attr name com.match.date.welo:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7033,7 +7033,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionOverflowMenuStyle
+     * @attr name com.match.date.welo:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
@@ -7046,11 +7046,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:activityChooserViewStyle
+     * @attr name com.match.date.welo:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7058,21 +7058,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:alertDialogButtonGroupStyle
+     * @attr name com.match.date.welo:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:alertDialogCenterButtons
+     * @attr name com.match.date.welo:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7080,7 +7080,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:alertDialogStyle
+     * @attr name com.match.date.welo:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
@@ -7093,7 +7093,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:alertDialogTheme
+     * @attr name com.match.date.welo:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
@@ -7106,7 +7106,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:autoCompleteTextViewStyle
+     * @attr name com.match.date.welo:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
@@ -7119,7 +7119,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:borderlessButtonStyle
+     * @attr name com.match.date.welo:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
@@ -7132,7 +7132,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:buttonBarButtonStyle
+     * @attr name com.match.date.welo:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
@@ -7145,7 +7145,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:buttonBarNegativeButtonStyle
+     * @attr name com.match.date.welo:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
@@ -7158,7 +7158,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:buttonBarNeutralButtonStyle
+     * @attr name com.match.date.welo:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
@@ -7171,7 +7171,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:buttonBarPositiveButtonStyle
+     * @attr name com.match.date.welo:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
@@ -7184,7 +7184,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:buttonBarStyle
+     * @attr name com.match.date.welo:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
@@ -7197,7 +7197,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:buttonStyle
+     * @attr name com.match.date.welo:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
@@ -7210,7 +7210,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:buttonStyleSmall
+     * @attr name com.match.date.welo:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
@@ -7223,7 +7223,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:checkboxStyle
+     * @attr name com.match.date.welo:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
@@ -7236,7 +7236,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:checkedTextViewStyle
+     * @attr name com.match.date.welo:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
@@ -7249,7 +7249,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:colorAccent
+     * @attr name com.match.date.welo:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
@@ -7261,7 +7261,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:colorBackgroundFloating
+     * @attr name com.match.date.welo:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
@@ -7273,7 +7273,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:colorButtonNormal
+     * @attr name com.match.date.welo:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
@@ -7285,7 +7285,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:colorControlActivated
+     * @attr name com.match.date.welo:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
@@ -7297,7 +7297,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:colorControlHighlight
+     * @attr name com.match.date.welo:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
@@ -7309,7 +7309,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:colorControlNormal
+     * @attr name com.match.date.welo:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
@@ -7326,7 +7326,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:colorError
+     * @attr name com.match.date.welo:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
@@ -7339,7 +7339,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:colorPrimary
+     * @attr name com.match.date.welo:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
@@ -7352,7 +7352,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:colorPrimaryDark
+     * @attr name com.match.date.welo:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
@@ -7364,7 +7364,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:colorSwitchThumbNormal
+     * @attr name com.match.date.welo:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
@@ -7377,7 +7377,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:controlBackground
+     * @attr name com.match.date.welo:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
@@ -7391,7 +7391,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:dialogCornerRadius
+     * @attr name com.match.date.welo:dialogCornerRadius
      */
     public static final int AppCompatTheme_dialogCornerRadius=59;
     /**
@@ -7405,7 +7405,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:dialogPreferredPadding
+     * @attr name com.match.date.welo:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=60;
     /**
@@ -7418,7 +7418,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:dialogTheme
+     * @attr name com.match.date.welo:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=61;
     /**
@@ -7431,7 +7431,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:dividerHorizontal
+     * @attr name com.match.date.welo:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=62;
     /**
@@ -7444,7 +7444,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:dividerVertical
+     * @attr name com.match.date.welo:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=63;
     /**
@@ -7457,7 +7457,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:dropDownListViewStyle
+     * @attr name com.match.date.welo:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=64;
     /**
@@ -7471,7 +7471,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:dropdownListPreferredItemHeight
+     * @attr name com.match.date.welo:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=65;
     /**
@@ -7484,7 +7484,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:editTextBackground
+     * @attr name com.match.date.welo:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=66;
     /**
@@ -7500,7 +7500,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:editTextColor
+     * @attr name com.match.date.welo:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=67;
     /**
@@ -7513,7 +7513,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:editTextStyle
+     * @attr name com.match.date.welo:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=68;
     /**
@@ -7526,7 +7526,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:homeAsUpIndicator
+     * @attr name com.match.date.welo:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=69;
     /**
@@ -7539,7 +7539,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:imageButtonStyle
+     * @attr name com.match.date.welo:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=70;
     /**
@@ -7552,7 +7552,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:listChoiceBackgroundIndicator
+     * @attr name com.match.date.welo:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=71;
     /**
@@ -7565,7 +7565,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:listDividerAlertDialog
+     * @attr name com.match.date.welo:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=72;
     /**
@@ -7578,11 +7578,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:listMenuViewStyle
+     * @attr name com.match.date.welo:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7590,7 +7590,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:listPopupWindowStyle
+     * @attr name com.match.date.welo:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=74;
     /**
@@ -7604,7 +7604,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:listPreferredItemHeight
+     * @attr name com.match.date.welo:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=75;
     /**
@@ -7618,7 +7618,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:listPreferredItemHeightLarge
+     * @attr name com.match.date.welo:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=76;
     /**
@@ -7632,7 +7632,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:listPreferredItemHeightSmall
+     * @attr name com.match.date.welo:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=77;
     /**
@@ -7646,7 +7646,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:listPreferredItemPaddingLeft
+     * @attr name com.match.date.welo:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=78;
     /**
@@ -7660,7 +7660,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:listPreferredItemPaddingRight
+     * @attr name com.match.date.welo:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=79;
     /**
@@ -7673,7 +7673,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:panelBackground
+     * @attr name com.match.date.welo:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=80;
     /**
@@ -7686,7 +7686,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:panelMenuListTheme
+     * @attr name com.match.date.welo:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=81;
     /**
@@ -7700,7 +7700,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:panelMenuListWidth
+     * @attr name com.match.date.welo:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=82;
     /**
@@ -7713,7 +7713,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:popupMenuStyle
+     * @attr name com.match.date.welo:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=83;
     /**
@@ -7726,7 +7726,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:popupWindowStyle
+     * @attr name com.match.date.welo:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=84;
     /**
@@ -7739,7 +7739,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:radioButtonStyle
+     * @attr name com.match.date.welo:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=85;
     /**
@@ -7752,7 +7752,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:ratingBarStyle
+     * @attr name com.match.date.welo:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=86;
     /**
@@ -7765,7 +7765,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:ratingBarStyleIndicator
+     * @attr name com.match.date.welo:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=87;
     /**
@@ -7778,7 +7778,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:ratingBarStyleSmall
+     * @attr name com.match.date.welo:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=88;
     /**
@@ -7791,7 +7791,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:searchViewStyle
+     * @attr name com.match.date.welo:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=89;
     /**
@@ -7804,7 +7804,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:seekBarStyle
+     * @attr name com.match.date.welo:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=90;
     /**
@@ -7819,7 +7819,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:selectableItemBackground
+     * @attr name com.match.date.welo:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=91;
     /**
@@ -7832,7 +7832,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:selectableItemBackgroundBorderless
+     * @attr name com.match.date.welo:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=92;
     /**
@@ -7845,7 +7845,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:spinnerDropDownItemStyle
+     * @attr name com.match.date.welo:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=93;
     /**
@@ -7858,7 +7858,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:spinnerStyle
+     * @attr name com.match.date.welo:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=94;
     /**
@@ -7871,7 +7871,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:switchStyle
+     * @attr name com.match.date.welo:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=95;
     /**
@@ -7884,7 +7884,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:textAppearanceLargePopupMenu
+     * @attr name com.match.date.welo:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=96;
     /**
@@ -7897,7 +7897,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:textAppearanceListItem
+     * @attr name com.match.date.welo:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=97;
     /**
@@ -7910,7 +7910,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:textAppearanceListItemSecondary
+     * @attr name com.match.date.welo:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=98;
     /**
@@ -7923,7 +7923,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:textAppearanceListItemSmall
+     * @attr name com.match.date.welo:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=99;
     /**
@@ -7936,7 +7936,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:textAppearancePopupMenuHeader
+     * @attr name com.match.date.welo:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=100;
     /**
@@ -7949,7 +7949,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:textAppearanceSearchResultSubtitle
+     * @attr name com.match.date.welo:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=101;
     /**
@@ -7962,7 +7962,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:textAppearanceSearchResultTitle
+     * @attr name com.match.date.welo:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=102;
     /**
@@ -7975,7 +7975,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:textAppearanceSmallPopupMenu
+     * @attr name com.match.date.welo:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=103;
     /**
@@ -7991,7 +7991,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:textColorAlertDialogListItem
+     * @attr name com.match.date.welo:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=104;
     /**
@@ -8007,7 +8007,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:textColorSearchUrl
+     * @attr name com.match.date.welo:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=105;
     /**
@@ -8020,7 +8020,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:toolbarNavigationButtonStyle
+     * @attr name com.match.date.welo:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=106;
     /**
@@ -8033,7 +8033,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:toolbarStyle
+     * @attr name com.match.date.welo:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=107;
     /**
@@ -8049,7 +8049,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:tooltipForegroundColor
+     * @attr name com.match.date.welo:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=108;
     /**
@@ -8062,17 +8062,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:tooltipFrameBackground
+     * @attr name com.match.date.welo:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=109;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#viewInflaterClass}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#viewInflaterClass}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:viewInflaterClass
+     * @attr name com.match.date.welo:viewInflaterClass
      */
     public static final int AppCompatTheme_viewInflaterClass=110;
     /**
@@ -8084,7 +8084,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:windowActionBar
+     * @attr name com.match.date.welo:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=111;
     /**
@@ -8097,7 +8097,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:windowActionBarOverlay
+     * @attr name com.match.date.welo:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=112;
     /**
@@ -8109,7 +8109,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:windowActionModeOverlay
+     * @attr name com.match.date.welo:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=113;
     /**
@@ -8129,7 +8129,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.HBuilder.integrate:windowFixedHeightMajor
+     * @attr name com.match.date.welo:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=114;
     /**
@@ -8149,7 +8149,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.HBuilder.integrate:windowFixedHeightMinor
+     * @attr name com.match.date.welo:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=115;
     /**
@@ -8169,7 +8169,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.HBuilder.integrate:windowFixedWidthMajor
+     * @attr name com.match.date.welo:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=116;
     /**
@@ -8189,7 +8189,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.HBuilder.integrate:windowFixedWidthMinor
+     * @attr name com.match.date.welo:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=117;
     /**
@@ -8210,7 +8210,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.HBuilder.integrate:windowMinWidthMajor
+     * @attr name com.match.date.welo:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=118;
     /**
@@ -8231,7 +8231,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.HBuilder.integrate:windowMinWidthMinor
+     * @attr name com.match.date.welo:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=119;
     /**
@@ -8242,7 +8242,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:windowNoTitle
+     * @attr name com.match.date.welo:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=120;
     /**
@@ -8252,7 +8252,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.HBuilder.integrate:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.match.date.welo:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
      * enough space to lay them out side-by-side.</td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
@@ -8269,7 +8269,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:allowStacking
+     * @attr name com.match.date.welo:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -8281,7 +8281,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.HBuilder.integrate:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.match.date.welo:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -8318,7 +8318,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.HBuilder.integrate:alpha
+     * @attr name com.match.date.welo:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -8329,8 +8329,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.HBuilder.integrate:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.HBuilder.integrate:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.match.date.welo:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.match.date.welo:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -8360,7 +8360,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:buttonTint
+     * @attr name com.match.date.welo:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
@@ -8387,7 +8387,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:buttonTintMode
+     * @attr name com.match.date.welo:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -8397,9 +8397,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines com.HBuilder.integrate:keylines}</code></td><td>A reference to an array of integers representing the
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.match.date.welo:keylines}</code></td><td>A reference to an array of integers representing the
      * locations of horizontal keylines in dp from the starting edge.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.HBuilder.integrate:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.match.date.welo:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -8421,7 +8421,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:keylines
+     * @attr name com.match.date.welo:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
@@ -8437,7 +8437,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:statusBarBackground
+     * @attr name com.match.date.welo:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -8448,15 +8448,15 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.HBuilder.integrate:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.HBuilder.integrate:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.match.date.welo:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.match.date.welo:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
      * within its parent's bounds.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.HBuilder.integrate:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.match.date.welo:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
      * for this child view.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.HBuilder.integrate:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.HBuilder.integrate:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.match.date.welo:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.match.date.welo:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
      * dodge it.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.HBuilder.integrate:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.match.date.welo:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -8509,7 +8509,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:layout_anchor
+     * @attr name com.match.date.welo:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
@@ -8546,7 +8546,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:layout_anchorGravity
+     * @attr name com.match.date.welo:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
@@ -8558,7 +8558,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:layout_behavior
+     * @attr name com.match.date.welo:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
@@ -8582,7 +8582,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Dodge the top inset edge.</td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:layout_dodgeInsetEdges
+     * @attr name com.match.date.welo:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
@@ -8606,7 +8606,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Inset the top edge.</td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:layout_insetEdge
+     * @attr name com.match.date.welo:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
@@ -8618,7 +8618,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.HBuilder.integrate:layout_keyline
+     * @attr name com.match.date.welo:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
@@ -8628,14 +8628,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.HBuilder.integrate:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.HBuilder.integrate:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.HBuilder.integrate:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.HBuilder.integrate:color}</code></td><td>The drawing color for the bars</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.HBuilder.integrate:drawableSize}</code></td><td>The total size of the drawable</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.HBuilder.integrate:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.HBuilder.integrate:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.HBuilder.integrate:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.match.date.welo:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.match.date.welo:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.match.date.welo:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.match.date.welo:color}</code></td><td>The drawing color for the bars</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.match.date.welo:drawableSize}</code></td><td>The total size of the drawable</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.match.date.welo:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.match.date.welo:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.match.date.welo:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -8661,7 +8661,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:arrowHeadLength
+     * @attr name com.match.date.welo:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
@@ -8675,7 +8675,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:arrowShaftLength
+     * @attr name com.match.date.welo:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
@@ -8689,7 +8689,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:barLength
+     * @attr name com.match.date.welo:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
@@ -8701,7 +8701,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:color
+     * @attr name com.match.date.welo:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
@@ -8715,7 +8715,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:drawableSize
+     * @attr name com.match.date.welo:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
@@ -8729,7 +8729,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:gapBetweenBars
+     * @attr name com.match.date.welo:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
@@ -8740,7 +8740,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:spinBars
+     * @attr name com.match.date.welo:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
@@ -8754,7 +8754,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:thickness
+     * @attr name com.match.date.welo:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -8764,12 +8764,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.HBuilder.integrate:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.HBuilder.integrate:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.HBuilder.integrate:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.HBuilder.integrate:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.HBuilder.integrate:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.HBuilder.integrate:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.match.date.welo:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.match.date.welo:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.match.date.welo:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.match.date.welo:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.match.date.welo:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.match.date.welo:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -8790,7 +8790,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:fontProviderAuthority
+     * @attr name com.match.date.welo:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
@@ -8807,7 +8807,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:fontProviderCerts
+     * @attr name com.match.date.welo:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
@@ -8839,7 +8839,7 @@ public final class R {
      * default typeface will be used instead.</td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:fontProviderFetchStrategy
+     * @attr name com.match.date.welo:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
@@ -8858,7 +8858,7 @@ public final class R {
      * timeout and wait until a reply is received from the font provider.</td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:fontProviderFetchTimeout
+     * @attr name com.match.date.welo:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
@@ -8870,7 +8870,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:fontProviderPackage
+     * @attr name com.match.date.welo:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
@@ -8882,7 +8882,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:fontProviderQuery
+     * @attr name com.match.date.welo:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -8897,11 +8897,11 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_ttcIndex android:ttcIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontVariationSettings android:fontVariationSettings}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.HBuilder.integrate:font}</code></td><td>The reference to the font file to be used.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.HBuilder.integrate:fontStyle}</code></td><td>The style of the given font file.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.HBuilder.integrate:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.HBuilder.integrate:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.HBuilder.integrate:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.match.date.welo:font}</code></td><td>The reference to the font file to be used.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.match.date.welo:fontStyle}</code></td><td>The style of the given font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.match.date.welo:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.match.date.welo:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.match.date.welo:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -8988,7 +8988,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:font
+     * @attr name com.match.date.welo:font
      */
     public static final int FontFamilyFont_font=5;
     /**
@@ -9008,7 +9008,7 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:fontStyle
+     * @attr name com.match.date.welo:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=6;
     /**
@@ -9022,7 +9022,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:fontVariationSettings
+     * @attr name com.match.date.welo:fontVariationSettings
      */
     public static final int FontFamilyFont_fontVariationSettings=7;
     /**
@@ -9036,7 +9036,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.HBuilder.integrate:fontWeight
+     * @attr name com.match.date.welo:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=8;
     /**
@@ -9047,7 +9047,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.HBuilder.integrate:ttcIndex
+     * @attr name com.match.date.welo:ttcIndex
      */
     public static final int FontFamilyFont_ttcIndex=9;
     /**
@@ -9057,9 +9057,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #GIFVIEW_authPlay com.HBuilder.integrate:authPlay}</code></td><td>是否加载完自动播放</td></tr>
-     * <tr><td><code>{@link #GIFVIEW_gifSrc com.HBuilder.integrate:gifSrc}</code></td><td>gif文件引用</td></tr>
-     * <tr><td><code>{@link #GIFVIEW_playCount com.HBuilder.integrate:playCount}</code></td><td>播放次放，默认永远播放</td></tr>
+     * <tr><td><code>{@link #GIFVIEW_authPlay com.match.date.welo:authPlay}</code></td><td>是否加载完自动播放</td></tr>
+     * <tr><td><code>{@link #GIFVIEW_gifSrc com.match.date.welo:gifSrc}</code></td><td>gif文件引用</td></tr>
+     * <tr><td><code>{@link #GIFVIEW_playCount com.match.date.welo:playCount}</code></td><td>播放次放，默认永远播放</td></tr>
      * </table>
      * @see #GIFVIEW_authPlay
      * @see #GIFVIEW_gifSrc
@@ -9076,7 +9076,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:authPlay
+     * @attr name com.match.date.welo:authPlay
      */
     public static final int GIFVIEW_authPlay=0;
     /**
@@ -9089,7 +9089,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:gifSrc
+     * @attr name com.match.date.welo:gifSrc
      */
     public static final int GIFVIEW_gifSrc=1;
     /**
@@ -9099,7 +9099,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.HBuilder.integrate:playCount
+     * @attr name com.match.date.welo:playCount
      */
     public static final int GIFVIEW_playCount=2;
     /**
@@ -9109,35 +9109,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_actualImageScaleType com.HBuilder.integrate:actualImageScaleType}</code></td><td>Scale type of the actual image.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_backgroundImage com.HBuilder.integrate:backgroundImage}</code></td><td>A drawable or color to be used as a background.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_fadeDuration com.HBuilder.integrate:fadeDuration}</code></td><td>Fade duration in milliseconds.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_failureImage com.HBuilder.integrate:failureImage}</code></td><td>A drawable to be be used as a failure image.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_failureImageScaleType com.HBuilder.integrate:failureImageScaleType}</code></td><td>Scale type of the failure image.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_overlayImage com.HBuilder.integrate:overlayImage}</code></td><td>A drawable or color to be used as an overlay.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImage com.HBuilder.integrate:placeholderImage}</code></td><td>A drawable or color to be be used as a placeholder.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImageScaleType com.HBuilder.integrate:placeholderImageScaleType}</code></td><td>Scale type of the placeholder image.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_pressedStateOverlayImage com.HBuilder.integrate:pressedStateOverlayImage}</code></td><td>A drawable or color to be used as a pressed-state-overlay</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarAutoRotateInterval com.HBuilder.integrate:progressBarAutoRotateInterval}</code></td><td>Progress bar Auto Rotate interval in milliseconds</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImage com.HBuilder.integrate:progressBarImage}</code></td><td>A drawable to be be used as a progress bar.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImageScaleType com.HBuilder.integrate:progressBarImageScaleType}</code></td><td>Scale type of the progress bar.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_retryImage com.HBuilder.integrate:retryImage}</code></td><td>A drawable to be be used as a retry image.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_retryImageScaleType com.HBuilder.integrate:retryImageScaleType}</code></td><td>Scale type of the retry image.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundAsCircle com.HBuilder.integrate:roundAsCircle}</code></td><td>Round as circle.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomEnd com.HBuilder.integrate:roundBottomEnd}</code></td><td>Round the bottom-end edge.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomLeft com.HBuilder.integrate:roundBottomLeft}</code></td><td>Round the bottom-left corner.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomRight com.HBuilder.integrate:roundBottomRight}</code></td><td>Round the bottom-right corner.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomStart com.HBuilder.integrate:roundBottomStart}</code></td><td>Round the bottom-start edge.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopEnd com.HBuilder.integrate:roundTopEnd}</code></td><td>Round the top-end edge.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopLeft com.HBuilder.integrate:roundTopLeft}</code></td><td>Round the top-left corner.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopRight com.HBuilder.integrate:roundTopRight}</code></td><td>Round the top-right corner.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopStart com.HBuilder.integrate:roundTopStart}</code></td><td>Round the top-start edge.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundWithOverlayColor com.HBuilder.integrate:roundWithOverlayColor}</code></td><td>Round by overlying color.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundedCornerRadius com.HBuilder.integrate:roundedCornerRadius}</code></td><td>Rounded corner radius.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderColor com.HBuilder.integrate:roundingBorderColor}</code></td><td>Rounding border color</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderPadding com.HBuilder.integrate:roundingBorderPadding}</code></td><td>Rounding border padding</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderWidth com.HBuilder.integrate:roundingBorderWidth}</code></td><td>Rounding border width</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_viewAspectRatio com.HBuilder.integrate:viewAspectRatio}</code></td><td>Aspect ratio (width / height) of the view, not necessarily of the images.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_actualImageScaleType com.match.date.welo:actualImageScaleType}</code></td><td>Scale type of the actual image.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_backgroundImage com.match.date.welo:backgroundImage}</code></td><td>A drawable or color to be used as a background.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_fadeDuration com.match.date.welo:fadeDuration}</code></td><td>Fade duration in milliseconds.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_failureImage com.match.date.welo:failureImage}</code></td><td>A drawable to be be used as a failure image.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_failureImageScaleType com.match.date.welo:failureImageScaleType}</code></td><td>Scale type of the failure image.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_overlayImage com.match.date.welo:overlayImage}</code></td><td>A drawable or color to be used as an overlay.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImage com.match.date.welo:placeholderImage}</code></td><td>A drawable or color to be be used as a placeholder.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImageScaleType com.match.date.welo:placeholderImageScaleType}</code></td><td>Scale type of the placeholder image.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_pressedStateOverlayImage com.match.date.welo:pressedStateOverlayImage}</code></td><td>A drawable or color to be used as a pressed-state-overlay</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarAutoRotateInterval com.match.date.welo:progressBarAutoRotateInterval}</code></td><td>Progress bar Auto Rotate interval in milliseconds</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImage com.match.date.welo:progressBarImage}</code></td><td>A drawable to be be used as a progress bar.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImageScaleType com.match.date.welo:progressBarImageScaleType}</code></td><td>Scale type of the progress bar.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_retryImage com.match.date.welo:retryImage}</code></td><td>A drawable to be be used as a retry image.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_retryImageScaleType com.match.date.welo:retryImageScaleType}</code></td><td>Scale type of the retry image.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundAsCircle com.match.date.welo:roundAsCircle}</code></td><td>Round as circle.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomEnd com.match.date.welo:roundBottomEnd}</code></td><td>Round the bottom-end edge.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomLeft com.match.date.welo:roundBottomLeft}</code></td><td>Round the bottom-left corner.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomRight com.match.date.welo:roundBottomRight}</code></td><td>Round the bottom-right corner.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomStart com.match.date.welo:roundBottomStart}</code></td><td>Round the bottom-start edge.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopEnd com.match.date.welo:roundTopEnd}</code></td><td>Round the top-end edge.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopLeft com.match.date.welo:roundTopLeft}</code></td><td>Round the top-left corner.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopRight com.match.date.welo:roundTopRight}</code></td><td>Round the top-right corner.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopStart com.match.date.welo:roundTopStart}</code></td><td>Round the top-start edge.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundWithOverlayColor com.match.date.welo:roundWithOverlayColor}</code></td><td>Round by overlying color.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundedCornerRadius com.match.date.welo:roundedCornerRadius}</code></td><td>Rounded corner radius.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderColor com.match.date.welo:roundingBorderColor}</code></td><td>Rounding border color</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderPadding com.match.date.welo:roundingBorderPadding}</code></td><td>Rounding border padding</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderWidth com.match.date.welo:roundingBorderWidth}</code></td><td>Rounding border width</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_viewAspectRatio com.match.date.welo:viewAspectRatio}</code></td><td>Aspect ratio (width / height) of the view, not necessarily of the images.</td></tr>
      * </table>
      * @see #GenericDraweeHierarchy_actualImageScaleType
      * @see #GenericDraweeHierarchy_backgroundImage
@@ -9202,7 +9202,7 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:actualImageScaleType
+     * @attr name com.match.date.welo:actualImageScaleType
      */
     public static final int GenericDraweeHierarchy_actualImageScaleType=0;
     /**
@@ -9215,7 +9215,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:backgroundImage
+     * @attr name com.match.date.welo:backgroundImage
      */
     public static final int GenericDraweeHierarchy_backgroundImage=1;
     /**
@@ -9225,7 +9225,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.HBuilder.integrate:fadeDuration
+     * @attr name com.match.date.welo:fadeDuration
      */
     public static final int GenericDraweeHierarchy_fadeDuration=2;
     /**
@@ -9238,7 +9238,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:failureImage
+     * @attr name com.match.date.welo:failureImage
      */
     public static final int GenericDraweeHierarchy_failureImage=3;
     /**
@@ -9264,7 +9264,7 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:failureImageScaleType
+     * @attr name com.match.date.welo:failureImageScaleType
      */
     public static final int GenericDraweeHierarchy_failureImageScaleType=4;
     /**
@@ -9277,7 +9277,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:overlayImage
+     * @attr name com.match.date.welo:overlayImage
      */
     public static final int GenericDraweeHierarchy_overlayImage=5;
     /**
@@ -9290,7 +9290,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:placeholderImage
+     * @attr name com.match.date.welo:placeholderImage
      */
     public static final int GenericDraweeHierarchy_placeholderImage=6;
     /**
@@ -9316,7 +9316,7 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:placeholderImageScaleType
+     * @attr name com.match.date.welo:placeholderImageScaleType
      */
     public static final int GenericDraweeHierarchy_placeholderImageScaleType=7;
     /**
@@ -9329,7 +9329,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:pressedStateOverlayImage
+     * @attr name com.match.date.welo:pressedStateOverlayImage
      */
     public static final int GenericDraweeHierarchy_pressedStateOverlayImage=8;
     /**
@@ -9339,7 +9339,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.HBuilder.integrate:progressBarAutoRotateInterval
+     * @attr name com.match.date.welo:progressBarAutoRotateInterval
      */
     public static final int GenericDraweeHierarchy_progressBarAutoRotateInterval=9;
     /**
@@ -9352,7 +9352,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:progressBarImage
+     * @attr name com.match.date.welo:progressBarImage
      */
     public static final int GenericDraweeHierarchy_progressBarImage=10;
     /**
@@ -9378,7 +9378,7 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:progressBarImageScaleType
+     * @attr name com.match.date.welo:progressBarImageScaleType
      */
     public static final int GenericDraweeHierarchy_progressBarImageScaleType=11;
     /**
@@ -9391,7 +9391,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:retryImage
+     * @attr name com.match.date.welo:retryImage
      */
     public static final int GenericDraweeHierarchy_retryImage=12;
     /**
@@ -9417,7 +9417,7 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:retryImageScaleType
+     * @attr name com.match.date.welo:retryImageScaleType
      */
     public static final int GenericDraweeHierarchy_retryImageScaleType=13;
     /**
@@ -9428,7 +9428,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:roundAsCircle
+     * @attr name com.match.date.welo:roundAsCircle
      */
     public static final int GenericDraweeHierarchy_roundAsCircle=14;
     /**
@@ -9439,7 +9439,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:roundBottomEnd
+     * @attr name com.match.date.welo:roundBottomEnd
      */
     public static final int GenericDraweeHierarchy_roundBottomEnd=15;
     /**
@@ -9450,7 +9450,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:roundBottomLeft
+     * @attr name com.match.date.welo:roundBottomLeft
      */
     public static final int GenericDraweeHierarchy_roundBottomLeft=16;
     /**
@@ -9461,7 +9461,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:roundBottomRight
+     * @attr name com.match.date.welo:roundBottomRight
      */
     public static final int GenericDraweeHierarchy_roundBottomRight=17;
     /**
@@ -9472,7 +9472,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:roundBottomStart
+     * @attr name com.match.date.welo:roundBottomStart
      */
     public static final int GenericDraweeHierarchy_roundBottomStart=18;
     /**
@@ -9483,7 +9483,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:roundTopEnd
+     * @attr name com.match.date.welo:roundTopEnd
      */
     public static final int GenericDraweeHierarchy_roundTopEnd=19;
     /**
@@ -9494,7 +9494,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:roundTopLeft
+     * @attr name com.match.date.welo:roundTopLeft
      */
     public static final int GenericDraweeHierarchy_roundTopLeft=20;
     /**
@@ -9505,7 +9505,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:roundTopRight
+     * @attr name com.match.date.welo:roundTopRight
      */
     public static final int GenericDraweeHierarchy_roundTopRight=21;
     /**
@@ -9516,7 +9516,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:roundTopStart
+     * @attr name com.match.date.welo:roundTopStart
      */
     public static final int GenericDraweeHierarchy_roundTopStart=22;
     /**
@@ -9528,7 +9528,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:roundWithOverlayColor
+     * @attr name com.match.date.welo:roundWithOverlayColor
      */
     public static final int GenericDraweeHierarchy_roundWithOverlayColor=23;
     /**
@@ -9542,7 +9542,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:roundedCornerRadius
+     * @attr name com.match.date.welo:roundedCornerRadius
      */
     public static final int GenericDraweeHierarchy_roundedCornerRadius=24;
     /**
@@ -9554,7 +9554,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:roundingBorderColor
+     * @attr name com.match.date.welo:roundingBorderColor
      */
     public static final int GenericDraweeHierarchy_roundingBorderColor=25;
     /**
@@ -9568,7 +9568,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:roundingBorderPadding
+     * @attr name com.match.date.welo:roundingBorderPadding
      */
     public static final int GenericDraweeHierarchy_roundingBorderPadding=26;
     /**
@@ -9582,7 +9582,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:roundingBorderWidth
+     * @attr name com.match.date.welo:roundingBorderWidth
      */
     public static final int GenericDraweeHierarchy_roundingBorderWidth=27;
     /**
@@ -9592,7 +9592,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.HBuilder.integrate:viewAspectRatio
+     * @attr name com.match.date.welo:viewAspectRatio
      */
     public static final int GenericDraweeHierarchy_viewAspectRatio=28;
     /**
@@ -9602,8 +9602,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #GifTextureView_gifSource com.HBuilder.integrate:gifSource}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GifTextureView_isOpaque com.HBuilder.integrate:isOpaque}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GifTextureView_gifSource com.match.date.welo:gifSource}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GifTextureView_isOpaque com.match.date.welo:isOpaque}</code></td><td></td></tr>
      * </table>
      * @see #GifTextureView_gifSource
      * @see #GifTextureView_isOpaque
@@ -9612,7 +9612,7 @@ public final class R {
       0x7f020095, 0x7f0200a4
     };
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#gifSource}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#gifSource}
      * attribute's value can be found in the {@link #GifTextureView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9622,17 +9622,17 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:gifSource
+     * @attr name com.match.date.welo:gifSource
      */
     public static final int GifTextureView_gifSource=0;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#isOpaque}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#isOpaque}
      * attribute's value can be found in the {@link #GifTextureView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:isOpaque
+     * @attr name com.match.date.welo:isOpaque
      */
     public static final int GifTextureView_isOpaque=1;
     /**
@@ -9642,8 +9642,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #GifView_freezesAnimation com.HBuilder.integrate:freezesAnimation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GifView_loopCount com.HBuilder.integrate:loopCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GifView_freezesAnimation com.match.date.welo:freezesAnimation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GifView_loopCount com.match.date.welo:loopCount}</code></td><td></td></tr>
      * </table>
      * @see #GifView_freezesAnimation
      * @see #GifView_loopCount
@@ -9652,22 +9652,22 @@ public final class R {
       0x7f020093, 0x7f0200be
     };
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#freezesAnimation}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#freezesAnimation}
      * attribute's value can be found in the {@link #GifView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:freezesAnimation
+     * @attr name com.match.date.welo:freezesAnimation
      */
     public static final int GifView_freezesAnimation=0;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#loopCount}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#loopCount}
      * attribute's value can be found in the {@link #GifView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.HBuilder.integrate:loopCount
+     * @attr name com.match.date.welo:loopCount
      */
     public static final int GifView_loopCount=1;
     /**
@@ -9925,11 +9925,11 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.HBuilder.integrate:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.HBuilder.integrate:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.HBuilder.integrate:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.match.date.welo:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.match.date.welo:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.match.date.welo:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
      * the minimum size of the largest child.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.HBuilder.integrate:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.match.date.welo:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -10044,7 +10044,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:divider
+     * @attr name com.match.date.welo:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
@@ -10058,7 +10058,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:dividerPadding
+     * @attr name com.match.date.welo:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
@@ -10071,7 +10071,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:measureWithLargestChild
+     * @attr name com.match.date.welo:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
@@ -10091,7 +10091,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:showDividers
+     * @attr name com.match.date.welo:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -10373,18 +10373,18 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.HBuilder.integrate:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.HBuilder.integrate:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
+     * <tr><td><code>{@link #MenuItem_actionLayout com.match.date.welo:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.match.date.welo:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
      * and perform operations such as default action for that menu item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.HBuilder.integrate:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.match.date.welo:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
      * action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.HBuilder.integrate:alphabeticModifiers}</code></td><td>The alphabetic modifier key.</td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.HBuilder.integrate:contentDescription}</code></td><td>The content description associated with the item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.HBuilder.integrate:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.HBuilder.integrate:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.HBuilder.integrate:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.HBuilder.integrate:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.HBuilder.integrate:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.match.date.welo:alphabeticModifiers}</code></td><td>The alphabetic modifier key.</td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.match.date.welo:contentDescription}</code></td><td>The content description associated with the item.</td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.match.date.welo:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.match.date.welo:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.match.date.welo:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.match.date.welo:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.match.date.welo:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -10593,7 +10593,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actionLayout
+     * @attr name com.match.date.welo:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
@@ -10607,7 +10607,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:actionProviderClass
+     * @attr name com.match.date.welo:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
@@ -10620,7 +10620,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:actionViewClass
+     * @attr name com.match.date.welo:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
@@ -10643,7 +10643,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:alphabeticModifiers
+     * @attr name com.match.date.welo:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
@@ -10654,7 +10654,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:contentDescription
+     * @attr name com.match.date.welo:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
@@ -10666,7 +10666,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:iconTint
+     * @attr name com.match.date.welo:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
@@ -10693,7 +10693,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:iconTintMode
+     * @attr name com.match.date.welo:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
@@ -10716,7 +10716,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:numericModifiers
+     * @attr name com.match.date.welo:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
@@ -10746,7 +10746,7 @@ public final class R {
      * label with it even if it has an icon representation.</td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:showAsAction
+     * @attr name com.match.date.welo:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
@@ -10757,7 +10757,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:tooltipText
+     * @attr name com.match.date.welo:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -10774,8 +10774,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.HBuilder.integrate:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.HBuilder.integrate:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.match.date.welo:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.match.date.welo:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -10894,7 +10894,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:preserveIconSpacing
+     * @attr name com.match.date.welo:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
@@ -10907,7 +10907,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:subMenuArrow
+     * @attr name com.match.date.welo:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -10919,7 +10919,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.HBuilder.integrate:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.match.date.welo:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -10963,7 +10963,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:overlapAnchor
+     * @attr name com.match.date.welo:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -10973,7 +10973,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.HBuilder.integrate:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.match.date.welo:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -10988,7 +10988,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:state_above_anchor
+     * @attr name com.match.date.welo:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -10998,8 +10998,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.HBuilder.integrate:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.HBuilder.integrate:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.match.date.welo:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.match.date.welo:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -11018,7 +11018,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:paddingBottomNoButtons
+     * @attr name com.match.date.welo:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
@@ -11032,7 +11032,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:paddingTopNoTitle
+     * @attr name com.match.date.welo:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -11044,15 +11044,15 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.HBuilder.integrate:fastScrollEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.HBuilder.integrate:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.HBuilder.integrate:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.HBuilder.integrate:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.HBuilder.integrate:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_layoutManager com.HBuilder.integrate:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
-     * <tr><td><code>{@link #RecyclerView_reverseLayout com.HBuilder.integrate:reverseLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_spanCount com.HBuilder.integrate:spanCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.HBuilder.integrate:stackFromEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.match.date.welo:fastScrollEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.match.date.welo:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.match.date.welo:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.match.date.welo:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.match.date.welo:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_layoutManager com.match.date.welo:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
+     * <tr><td><code>{@link #RecyclerView_reverseLayout com.match.date.welo:reverseLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_spanCount com.match.date.welo:spanCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.match.date.welo:stackFromEnd}</code></td><td></td></tr>
      * </table>
      * @see #RecyclerView_android_orientation
      * @see #RecyclerView_android_descendantFocusability
@@ -11107,17 +11107,17 @@ public final class R {
      */
     public static final int RecyclerView_android_descendantFocusability=1;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#fastScrollEnabled}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#fastScrollEnabled}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:fastScrollEnabled
+     * @attr name com.match.date.welo:fastScrollEnabled
      */
     public static final int RecyclerView_fastScrollEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#fastScrollHorizontalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#fastScrollHorizontalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11125,11 +11125,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:fastScrollHorizontalThumbDrawable
+     * @attr name com.match.date.welo:fastScrollHorizontalThumbDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalThumbDrawable=3;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#fastScrollHorizontalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#fastScrollHorizontalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11137,11 +11137,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:fastScrollHorizontalTrackDrawable
+     * @attr name com.match.date.welo:fastScrollHorizontalTrackDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalTrackDrawable=4;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#fastScrollVerticalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#fastScrollVerticalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11149,11 +11149,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:fastScrollVerticalThumbDrawable
+     * @attr name com.match.date.welo:fastScrollVerticalThumbDrawable
      */
     public static final int RecyclerView_fastScrollVerticalThumbDrawable=5;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#fastScrollVerticalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#fastScrollVerticalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11161,7 +11161,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:fastScrollVerticalTrackDrawable
+     * @attr name com.match.date.welo:fastScrollVerticalTrackDrawable
      */
     public static final int RecyclerView_fastScrollVerticalTrackDrawable=6;
     /**
@@ -11180,36 +11180,36 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:layoutManager
+     * @attr name com.match.date.welo:layoutManager
      */
     public static final int RecyclerView_layoutManager=7;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#reverseLayout}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#reverseLayout}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:reverseLayout
+     * @attr name com.match.date.welo:reverseLayout
      */
     public static final int RecyclerView_reverseLayout=8;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#spanCount}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#spanCount}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.HBuilder.integrate:spanCount
+     * @attr name com.match.date.welo:spanCount
      */
     public static final int RecyclerView_spanCount=9;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#stackFromEnd}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#stackFromEnd}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:stackFromEnd
+     * @attr name com.match.date.welo:stackFromEnd
      */
     public static final int RecyclerView_stackFromEnd=10;
     /**
@@ -11223,20 +11223,20 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.HBuilder.integrate:closeIcon}</code></td><td>Close button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.HBuilder.integrate:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.HBuilder.integrate:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
+     * <tr><td><code>{@link #SearchView_closeIcon com.match.date.welo:closeIcon}</code></td><td>Close button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.match.date.welo:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.match.date.welo:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
      * the search view's {@code SearchableInfo} does not provide a hint.</td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.HBuilder.integrate:goIcon}</code></td><td>Go button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.HBuilder.integrate:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.HBuilder.integrate:layout}</code></td><td>The layout to use for the search view.</td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.HBuilder.integrate:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.HBuilder.integrate:queryHint}</code></td><td>An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.HBuilder.integrate:searchHintIcon}</code></td><td>Search icon displayed as a text field hint</td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.HBuilder.integrate:searchIcon}</code></td><td>Search icon</td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.HBuilder.integrate:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.HBuilder.integrate:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.HBuilder.integrate:voiceIcon}</code></td><td>Voice button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.match.date.welo:goIcon}</code></td><td>Go button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.match.date.welo:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.match.date.welo:layout}</code></td><td>The layout to use for the search view.</td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.match.date.welo:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.match.date.welo:queryHint}</code></td><td>An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.match.date.welo:searchHintIcon}</code></td><td>Search icon displayed as a text field hint</td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.match.date.welo:searchIcon}</code></td><td>Search icon</td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.match.date.welo:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.match.date.welo:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.match.date.welo:voiceIcon}</code></td><td>Voice button icon</td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -11386,7 +11386,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:closeIcon
+     * @attr name com.match.date.welo:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
@@ -11399,7 +11399,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:commitIcon
+     * @attr name com.match.date.welo:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
@@ -11411,7 +11411,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:defaultQueryHint
+     * @attr name com.match.date.welo:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
@@ -11424,7 +11424,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:goIcon
+     * @attr name com.match.date.welo:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
@@ -11436,7 +11436,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:iconifiedByDefault
+     * @attr name com.match.date.welo:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
@@ -11449,7 +11449,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:layout
+     * @attr name com.match.date.welo:layout
      */
     public static final int SearchView_layout=9;
     /**
@@ -11462,7 +11462,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:queryBackground
+     * @attr name com.match.date.welo:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
@@ -11473,7 +11473,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:queryHint
+     * @attr name com.match.date.welo:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
@@ -11486,7 +11486,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:searchHintIcon
+     * @attr name com.match.date.welo:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
@@ -11499,7 +11499,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:searchIcon
+     * @attr name com.match.date.welo:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
@@ -11512,7 +11512,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:submitBackground
+     * @attr name com.match.date.welo:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
@@ -11525,7 +11525,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:suggestionRowLayout
+     * @attr name com.match.date.welo:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
@@ -11538,7 +11538,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:voiceIcon
+     * @attr name com.match.date.welo:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -11548,37 +11548,37 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_actualImageResource com.HBuilder.integrate:actualImageResource}</code></td><td>An image reference</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_actualImageScaleType com.HBuilder.integrate:actualImageScaleType}</code></td><td>Scale type of the actual image.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_actualImageUri com.HBuilder.integrate:actualImageUri}</code></td><td>An image uri .</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_backgroundImage com.HBuilder.integrate:backgroundImage}</code></td><td>A drawable or color to be used as a background.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_fadeDuration com.HBuilder.integrate:fadeDuration}</code></td><td>Fade duration in milliseconds.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_failureImage com.HBuilder.integrate:failureImage}</code></td><td>A drawable to be be used as a failure image.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_failureImageScaleType com.HBuilder.integrate:failureImageScaleType}</code></td><td>Scale type of the failure image.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_overlayImage com.HBuilder.integrate:overlayImage}</code></td><td>A drawable or color to be used as an overlay.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_placeholderImage com.HBuilder.integrate:placeholderImage}</code></td><td>A drawable or color to be be used as a placeholder.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_placeholderImageScaleType com.HBuilder.integrate:placeholderImageScaleType}</code></td><td>Scale type of the placeholder image.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_pressedStateOverlayImage com.HBuilder.integrate:pressedStateOverlayImage}</code></td><td>A drawable or color to be used as a pressed-state-overlay</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_progressBarAutoRotateInterval com.HBuilder.integrate:progressBarAutoRotateInterval}</code></td><td>Progress bar Auto Rotate interval in milliseconds</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_progressBarImage com.HBuilder.integrate:progressBarImage}</code></td><td>A drawable to be be used as a progress bar.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_progressBarImageScaleType com.HBuilder.integrate:progressBarImageScaleType}</code></td><td>Scale type of the progress bar.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_retryImage com.HBuilder.integrate:retryImage}</code></td><td>A drawable to be be used as a retry image.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_retryImageScaleType com.HBuilder.integrate:retryImageScaleType}</code></td><td>Scale type of the retry image.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundAsCircle com.HBuilder.integrate:roundAsCircle}</code></td><td>Round as circle.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundBottomEnd com.HBuilder.integrate:roundBottomEnd}</code></td><td>Round the bottom-end edge.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundBottomLeft com.HBuilder.integrate:roundBottomLeft}</code></td><td>Round the bottom-left corner.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundBottomRight com.HBuilder.integrate:roundBottomRight}</code></td><td>Round the bottom-right corner.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundBottomStart com.HBuilder.integrate:roundBottomStart}</code></td><td>Round the bottom-start edge.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundTopEnd com.HBuilder.integrate:roundTopEnd}</code></td><td>Round the top-end edge.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundTopLeft com.HBuilder.integrate:roundTopLeft}</code></td><td>Round the top-left corner.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundTopRight com.HBuilder.integrate:roundTopRight}</code></td><td>Round the top-right corner.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundTopStart com.HBuilder.integrate:roundTopStart}</code></td><td>Round the top-start edge.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundWithOverlayColor com.HBuilder.integrate:roundWithOverlayColor}</code></td><td>Round by overlying color.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundedCornerRadius com.HBuilder.integrate:roundedCornerRadius}</code></td><td>Rounded corner radius.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundingBorderColor com.HBuilder.integrate:roundingBorderColor}</code></td><td>Rounding border color</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundingBorderPadding com.HBuilder.integrate:roundingBorderPadding}</code></td><td>Rounding border padding</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundingBorderWidth com.HBuilder.integrate:roundingBorderWidth}</code></td><td>Rounding border width</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_viewAspectRatio com.HBuilder.integrate:viewAspectRatio}</code></td><td>Aspect ratio (width / height) of the view, not necessarily of the images.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_actualImageResource com.match.date.welo:actualImageResource}</code></td><td>An image reference</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_actualImageScaleType com.match.date.welo:actualImageScaleType}</code></td><td>Scale type of the actual image.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_actualImageUri com.match.date.welo:actualImageUri}</code></td><td>An image uri .</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_backgroundImage com.match.date.welo:backgroundImage}</code></td><td>A drawable or color to be used as a background.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_fadeDuration com.match.date.welo:fadeDuration}</code></td><td>Fade duration in milliseconds.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_failureImage com.match.date.welo:failureImage}</code></td><td>A drawable to be be used as a failure image.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_failureImageScaleType com.match.date.welo:failureImageScaleType}</code></td><td>Scale type of the failure image.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_overlayImage com.match.date.welo:overlayImage}</code></td><td>A drawable or color to be used as an overlay.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_placeholderImage com.match.date.welo:placeholderImage}</code></td><td>A drawable or color to be be used as a placeholder.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_placeholderImageScaleType com.match.date.welo:placeholderImageScaleType}</code></td><td>Scale type of the placeholder image.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_pressedStateOverlayImage com.match.date.welo:pressedStateOverlayImage}</code></td><td>A drawable or color to be used as a pressed-state-overlay</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_progressBarAutoRotateInterval com.match.date.welo:progressBarAutoRotateInterval}</code></td><td>Progress bar Auto Rotate interval in milliseconds</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_progressBarImage com.match.date.welo:progressBarImage}</code></td><td>A drawable to be be used as a progress bar.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_progressBarImageScaleType com.match.date.welo:progressBarImageScaleType}</code></td><td>Scale type of the progress bar.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_retryImage com.match.date.welo:retryImage}</code></td><td>A drawable to be be used as a retry image.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_retryImageScaleType com.match.date.welo:retryImageScaleType}</code></td><td>Scale type of the retry image.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundAsCircle com.match.date.welo:roundAsCircle}</code></td><td>Round as circle.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundBottomEnd com.match.date.welo:roundBottomEnd}</code></td><td>Round the bottom-end edge.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundBottomLeft com.match.date.welo:roundBottomLeft}</code></td><td>Round the bottom-left corner.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundBottomRight com.match.date.welo:roundBottomRight}</code></td><td>Round the bottom-right corner.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundBottomStart com.match.date.welo:roundBottomStart}</code></td><td>Round the bottom-start edge.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundTopEnd com.match.date.welo:roundTopEnd}</code></td><td>Round the top-end edge.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundTopLeft com.match.date.welo:roundTopLeft}</code></td><td>Round the top-left corner.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundTopRight com.match.date.welo:roundTopRight}</code></td><td>Round the top-right corner.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundTopStart com.match.date.welo:roundTopStart}</code></td><td>Round the top-start edge.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundWithOverlayColor com.match.date.welo:roundWithOverlayColor}</code></td><td>Round by overlying color.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundedCornerRadius com.match.date.welo:roundedCornerRadius}</code></td><td>Rounded corner radius.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundingBorderColor com.match.date.welo:roundingBorderColor}</code></td><td>Rounding border color</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundingBorderPadding com.match.date.welo:roundingBorderPadding}</code></td><td>Rounding border padding</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundingBorderWidth com.match.date.welo:roundingBorderWidth}</code></td><td>Rounding border width</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_viewAspectRatio com.match.date.welo:viewAspectRatio}</code></td><td>Aspect ratio (width / height) of the view, not necessarily of the images.</td></tr>
      * </table>
      * @see #SimpleDraweeView_actualImageResource
      * @see #SimpleDraweeView_actualImageScaleType
@@ -11632,7 +11632,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:actualImageResource
+     * @attr name com.match.date.welo:actualImageResource
      */
     public static final int SimpleDraweeView_actualImageResource=0;
     /**
@@ -11658,7 +11658,7 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:actualImageScaleType
+     * @attr name com.match.date.welo:actualImageScaleType
      */
     public static final int SimpleDraweeView_actualImageScaleType=1;
     /**
@@ -11669,7 +11669,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:actualImageUri
+     * @attr name com.match.date.welo:actualImageUri
      */
     public static final int SimpleDraweeView_actualImageUri=2;
     /**
@@ -11682,7 +11682,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:backgroundImage
+     * @attr name com.match.date.welo:backgroundImage
      */
     public static final int SimpleDraweeView_backgroundImage=3;
     /**
@@ -11692,7 +11692,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.HBuilder.integrate:fadeDuration
+     * @attr name com.match.date.welo:fadeDuration
      */
     public static final int SimpleDraweeView_fadeDuration=4;
     /**
@@ -11705,7 +11705,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:failureImage
+     * @attr name com.match.date.welo:failureImage
      */
     public static final int SimpleDraweeView_failureImage=5;
     /**
@@ -11731,7 +11731,7 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:failureImageScaleType
+     * @attr name com.match.date.welo:failureImageScaleType
      */
     public static final int SimpleDraweeView_failureImageScaleType=6;
     /**
@@ -11744,7 +11744,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:overlayImage
+     * @attr name com.match.date.welo:overlayImage
      */
     public static final int SimpleDraweeView_overlayImage=7;
     /**
@@ -11757,7 +11757,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:placeholderImage
+     * @attr name com.match.date.welo:placeholderImage
      */
     public static final int SimpleDraweeView_placeholderImage=8;
     /**
@@ -11783,7 +11783,7 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:placeholderImageScaleType
+     * @attr name com.match.date.welo:placeholderImageScaleType
      */
     public static final int SimpleDraweeView_placeholderImageScaleType=9;
     /**
@@ -11796,7 +11796,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:pressedStateOverlayImage
+     * @attr name com.match.date.welo:pressedStateOverlayImage
      */
     public static final int SimpleDraweeView_pressedStateOverlayImage=10;
     /**
@@ -11806,7 +11806,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.HBuilder.integrate:progressBarAutoRotateInterval
+     * @attr name com.match.date.welo:progressBarAutoRotateInterval
      */
     public static final int SimpleDraweeView_progressBarAutoRotateInterval=11;
     /**
@@ -11819,7 +11819,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:progressBarImage
+     * @attr name com.match.date.welo:progressBarImage
      */
     public static final int SimpleDraweeView_progressBarImage=12;
     /**
@@ -11845,7 +11845,7 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:progressBarImageScaleType
+     * @attr name com.match.date.welo:progressBarImageScaleType
      */
     public static final int SimpleDraweeView_progressBarImageScaleType=13;
     /**
@@ -11858,7 +11858,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:retryImage
+     * @attr name com.match.date.welo:retryImage
      */
     public static final int SimpleDraweeView_retryImage=14;
     /**
@@ -11884,7 +11884,7 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:retryImageScaleType
+     * @attr name com.match.date.welo:retryImageScaleType
      */
     public static final int SimpleDraweeView_retryImageScaleType=15;
     /**
@@ -11895,7 +11895,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:roundAsCircle
+     * @attr name com.match.date.welo:roundAsCircle
      */
     public static final int SimpleDraweeView_roundAsCircle=16;
     /**
@@ -11906,7 +11906,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:roundBottomEnd
+     * @attr name com.match.date.welo:roundBottomEnd
      */
     public static final int SimpleDraweeView_roundBottomEnd=17;
     /**
@@ -11917,7 +11917,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:roundBottomLeft
+     * @attr name com.match.date.welo:roundBottomLeft
      */
     public static final int SimpleDraweeView_roundBottomLeft=18;
     /**
@@ -11928,7 +11928,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:roundBottomRight
+     * @attr name com.match.date.welo:roundBottomRight
      */
     public static final int SimpleDraweeView_roundBottomRight=19;
     /**
@@ -11939,7 +11939,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:roundBottomStart
+     * @attr name com.match.date.welo:roundBottomStart
      */
     public static final int SimpleDraweeView_roundBottomStart=20;
     /**
@@ -11950,7 +11950,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:roundTopEnd
+     * @attr name com.match.date.welo:roundTopEnd
      */
     public static final int SimpleDraweeView_roundTopEnd=21;
     /**
@@ -11961,7 +11961,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:roundTopLeft
+     * @attr name com.match.date.welo:roundTopLeft
      */
     public static final int SimpleDraweeView_roundTopLeft=22;
     /**
@@ -11972,7 +11972,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:roundTopRight
+     * @attr name com.match.date.welo:roundTopRight
      */
     public static final int SimpleDraweeView_roundTopRight=23;
     /**
@@ -11983,7 +11983,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:roundTopStart
+     * @attr name com.match.date.welo:roundTopStart
      */
     public static final int SimpleDraweeView_roundTopStart=24;
     /**
@@ -11995,7 +11995,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:roundWithOverlayColor
+     * @attr name com.match.date.welo:roundWithOverlayColor
      */
     public static final int SimpleDraweeView_roundWithOverlayColor=25;
     /**
@@ -12009,7 +12009,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:roundedCornerRadius
+     * @attr name com.match.date.welo:roundedCornerRadius
      */
     public static final int SimpleDraweeView_roundedCornerRadius=26;
     /**
@@ -12021,7 +12021,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:roundingBorderColor
+     * @attr name com.match.date.welo:roundingBorderColor
      */
     public static final int SimpleDraweeView_roundingBorderColor=27;
     /**
@@ -12035,7 +12035,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:roundingBorderPadding
+     * @attr name com.match.date.welo:roundingBorderPadding
      */
     public static final int SimpleDraweeView_roundingBorderPadding=28;
     /**
@@ -12049,7 +12049,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:roundingBorderWidth
+     * @attr name com.match.date.welo:roundingBorderWidth
      */
     public static final int SimpleDraweeView_roundingBorderWidth=29;
     /**
@@ -12059,7 +12059,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.HBuilder.integrate:viewAspectRatio
+     * @attr name com.match.date.welo:viewAspectRatio
      */
     public static final int SimpleDraweeView_viewAspectRatio=30;
     /**
@@ -12073,7 +12073,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.HBuilder.integrate:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #Spinner_popupTheme com.match.date.welo:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
      * </table>
      * @see #Spinner_android_entries
@@ -12162,7 +12162,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:popupTheme
+     * @attr name com.match.date.welo:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -12299,24 +12299,24 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_background com.HBuilder.integrate:sb_background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_border_width com.HBuilder.integrate:sb_border_width}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_button_color com.HBuilder.integrate:sb_button_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_checked com.HBuilder.integrate:sb_checked}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_checked_color com.HBuilder.integrate:sb_checked_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_checkline_color com.HBuilder.integrate:sb_checkline_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_checkline_width com.HBuilder.integrate:sb_checkline_width}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_effect_duration com.HBuilder.integrate:sb_effect_duration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_enable_effect com.HBuilder.integrate:sb_enable_effect}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_shadow_color com.HBuilder.integrate:sb_shadow_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_shadow_effect com.HBuilder.integrate:sb_shadow_effect}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_shadow_offset com.HBuilder.integrate:sb_shadow_offset}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_shadow_radius com.HBuilder.integrate:sb_shadow_radius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_show_indicator com.HBuilder.integrate:sb_show_indicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_uncheck_color com.HBuilder.integrate:sb_uncheck_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_uncheckcircle_color com.HBuilder.integrate:sb_uncheckcircle_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_uncheckcircle_radius com.HBuilder.integrate:sb_uncheckcircle_radius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_uncheckcircle_width com.HBuilder.integrate:sb_uncheckcircle_width}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_background com.match.date.welo:sb_background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_border_width com.match.date.welo:sb_border_width}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_button_color com.match.date.welo:sb_button_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_checked com.match.date.welo:sb_checked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_checked_color com.match.date.welo:sb_checked_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_checkline_color com.match.date.welo:sb_checkline_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_checkline_width com.match.date.welo:sb_checkline_width}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_effect_duration com.match.date.welo:sb_effect_duration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_enable_effect com.match.date.welo:sb_enable_effect}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_shadow_color com.match.date.welo:sb_shadow_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_shadow_effect com.match.date.welo:sb_shadow_effect}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_shadow_offset com.match.date.welo:sb_shadow_offset}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_shadow_radius com.match.date.welo:sb_shadow_radius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_show_indicator com.match.date.welo:sb_show_indicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_uncheck_color com.match.date.welo:sb_uncheck_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_uncheckcircle_color com.match.date.welo:sb_uncheckcircle_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_uncheckcircle_radius com.match.date.welo:sb_uncheckcircle_radius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_uncheckcircle_width com.match.date.welo:sb_uncheckcircle_width}</code></td><td></td></tr>
      * </table>
      * @see #SwitchButton_sb_background
      * @see #SwitchButton_sb_border_width
@@ -12345,7 +12345,7 @@ public final class R {
       0x7f02010a, 0x7f02010b
     };
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#sb_background}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#sb_background}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12356,11 +12356,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:sb_background
+     * @attr name com.match.date.welo:sb_background
      */
     public static final int SwitchButton_sb_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#sb_border_width}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#sb_border_width}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12373,11 +12373,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:sb_border_width
+     * @attr name com.match.date.welo:sb_border_width
      */
     public static final int SwitchButton_sb_border_width=1;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#sb_button_color}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#sb_button_color}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12388,11 +12388,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:sb_button_color
+     * @attr name com.match.date.welo:sb_button_color
      */
     public static final int SwitchButton_sb_button_color=2;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#sb_checked}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#sb_checked}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12402,11 +12402,11 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:sb_checked
+     * @attr name com.match.date.welo:sb_checked
      */
     public static final int SwitchButton_sb_checked=3;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#sb_checked_color}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#sb_checked_color}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12417,11 +12417,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:sb_checked_color
+     * @attr name com.match.date.welo:sb_checked_color
      */
     public static final int SwitchButton_sb_checked_color=4;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#sb_checkline_color}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#sb_checkline_color}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12432,11 +12432,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:sb_checkline_color
+     * @attr name com.match.date.welo:sb_checkline_color
      */
     public static final int SwitchButton_sb_checkline_color=5;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#sb_checkline_width}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#sb_checkline_width}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12449,11 +12449,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:sb_checkline_width
+     * @attr name com.match.date.welo:sb_checkline_width
      */
     public static final int SwitchButton_sb_checkline_width=6;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#sb_effect_duration}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#sb_effect_duration}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12462,11 +12462,11 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.HBuilder.integrate:sb_effect_duration
+     * @attr name com.match.date.welo:sb_effect_duration
      */
     public static final int SwitchButton_sb_effect_duration=7;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#sb_enable_effect}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#sb_enable_effect}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12476,11 +12476,11 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:sb_enable_effect
+     * @attr name com.match.date.welo:sb_enable_effect
      */
     public static final int SwitchButton_sb_enable_effect=8;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#sb_shadow_color}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#sb_shadow_color}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12491,11 +12491,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:sb_shadow_color
+     * @attr name com.match.date.welo:sb_shadow_color
      */
     public static final int SwitchButton_sb_shadow_color=9;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#sb_shadow_effect}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#sb_shadow_effect}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12505,11 +12505,11 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:sb_shadow_effect
+     * @attr name com.match.date.welo:sb_shadow_effect
      */
     public static final int SwitchButton_sb_shadow_effect=10;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#sb_shadow_offset}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#sb_shadow_offset}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12522,11 +12522,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:sb_shadow_offset
+     * @attr name com.match.date.welo:sb_shadow_offset
      */
     public static final int SwitchButton_sb_shadow_offset=11;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#sb_shadow_radius}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#sb_shadow_radius}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12539,11 +12539,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:sb_shadow_radius
+     * @attr name com.match.date.welo:sb_shadow_radius
      */
     public static final int SwitchButton_sb_shadow_radius=12;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#sb_show_indicator}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#sb_show_indicator}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12553,11 +12553,11 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:sb_show_indicator
+     * @attr name com.match.date.welo:sb_show_indicator
      */
     public static final int SwitchButton_sb_show_indicator=13;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#sb_uncheck_color}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#sb_uncheck_color}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12568,11 +12568,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:sb_uncheck_color
+     * @attr name com.match.date.welo:sb_uncheck_color
      */
     public static final int SwitchButton_sb_uncheck_color=14;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#sb_uncheckcircle_color}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#sb_uncheckcircle_color}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12583,11 +12583,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:sb_uncheckcircle_color
+     * @attr name com.match.date.welo:sb_uncheckcircle_color
      */
     public static final int SwitchButton_sb_uncheckcircle_color=15;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#sb_uncheckcircle_radius}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#sb_uncheckcircle_radius}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12600,11 +12600,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:sb_uncheckcircle_radius
+     * @attr name com.match.date.welo:sb_uncheckcircle_radius
      */
     public static final int SwitchButton_sb_uncheckcircle_radius=16;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#sb_uncheckcircle_width}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#sb_uncheckcircle_width}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12617,7 +12617,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:sb_uncheckcircle_width
+     * @attr name com.match.date.welo:sb_uncheckcircle_width
      */
     public static final int SwitchButton_sb_uncheckcircle_width=17;
     /**
@@ -12630,17 +12630,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.HBuilder.integrate:showText}</code></td><td>Whether to draw on/off text.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.HBuilder.integrate:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.HBuilder.integrate:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.HBuilder.integrate:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.HBuilder.integrate:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.HBuilder.integrate:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.HBuilder.integrate:thumbTint}</code></td><td>Tint to apply to the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.HBuilder.integrate:thumbTintMode}</code></td><td>Blending mode used to apply the thumb tint.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.HBuilder.integrate:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.HBuilder.integrate:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.HBuilder.integrate:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.match.date.welo:showText}</code></td><td>Whether to draw on/off text.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.match.date.welo:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.match.date.welo:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.match.date.welo:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.match.date.welo:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.match.date.welo:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.match.date.welo:thumbTint}</code></td><td>Tint to apply to the thumb drawable.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.match.date.welo:thumbTintMode}</code></td><td>Blending mode used to apply the thumb tint.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.match.date.welo:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.match.date.welo:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.match.date.welo:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -12706,7 +12706,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:showText
+     * @attr name com.match.date.welo:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
@@ -12717,7 +12717,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:splitTrack
+     * @attr name com.match.date.welo:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
@@ -12731,7 +12731,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:switchMinWidth
+     * @attr name com.match.date.welo:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
@@ -12745,7 +12745,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:switchPadding
+     * @attr name com.match.date.welo:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
@@ -12758,7 +12758,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:switchTextAppearance
+     * @attr name com.match.date.welo:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
@@ -12772,7 +12772,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:thumbTextPadding
+     * @attr name com.match.date.welo:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
@@ -12784,7 +12784,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:thumbTint
+     * @attr name com.match.date.welo:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
@@ -12811,7 +12811,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:thumbTintMode
+     * @attr name com.match.date.welo:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
@@ -12824,7 +12824,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:track
+     * @attr name com.match.date.welo:track
      */
     public static final int SwitchCompat_track=11;
     /**
@@ -12836,7 +12836,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:trackTint
+     * @attr name com.match.date.welo:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
@@ -12863,7 +12863,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:trackTintMode
+     * @attr name com.match.date.welo:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -12884,8 +12884,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.HBuilder.integrate:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.HBuilder.integrate:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.match.date.welo:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.match.date.welo:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -13058,7 +13058,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:fontFamily
+     * @attr name com.match.date.welo:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
@@ -13073,7 +13073,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.HBuilder.integrate:textAllCaps
+     * @attr name com.match.date.welo:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -13085,40 +13085,40 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.HBuilder.integrate:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.HBuilder.integrate:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.HBuilder.integrate:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.HBuilder.integrate:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.HBuilder.integrate:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.match.date.welo:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.match.date.welo:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.match.date.welo:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.match.date.welo:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.match.date.welo:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
      * are present.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.HBuilder.integrate:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.HBuilder.integrate:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.HBuilder.integrate:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.HBuilder.integrate:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.match.date.welo:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.match.date.welo:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.match.date.welo:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.match.date.welo:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.HBuilder.integrate:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.HBuilder.integrate:logoDescription}</code></td><td>A content description string to describe the appearance of the
+     * <tr><td><code>{@link #Toolbar_logo com.match.date.welo:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.match.date.welo:logoDescription}</code></td><td>A content description string to describe the appearance of the
      * associated logo image.</td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.HBuilder.integrate:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.HBuilder.integrate:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.match.date.welo:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.match.date.welo:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
      * located at the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.HBuilder.integrate:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.match.date.welo:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
      * the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.HBuilder.integrate:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #Toolbar_popupTheme com.match.date.welo:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.HBuilder.integrate:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.HBuilder.integrate:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.HBuilder.integrate:subtitleTextColor}</code></td><td>A color to apply to the subtitle string.</td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.HBuilder.integrate:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.HBuilder.integrate:titleMargin}</code></td><td>Specifies extra space on the left, start, right and end sides
+     * <tr><td><code>{@link #Toolbar_subtitle com.match.date.welo:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.match.date.welo:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.match.date.welo:subtitleTextColor}</code></td><td>A color to apply to the subtitle string.</td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.match.date.welo:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.match.date.welo:titleMargin}</code></td><td>Specifies extra space on the left, start, right and end sides
      * of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.HBuilder.integrate:titleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.HBuilder.integrate:titleMarginEnd}</code></td><td>Specifies extra space on the end side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.HBuilder.integrate:titleMarginStart}</code></td><td>Specifies extra space on the start side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.HBuilder.integrate:titleMarginTop}</code></td><td>Specifies extra space on the top side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.HBuilder.integrate:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.HBuilder.integrate:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.HBuilder.integrate:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.match.date.welo:titleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.match.date.welo:titleMarginEnd}</code></td><td>Specifies extra space on the end side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.match.date.welo:titleMarginStart}</code></td><td>Specifies extra space on the start side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.match.date.welo:titleMarginTop}</code></td><td>Specifies extra space on the top side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.match.date.welo:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.match.date.welo:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.match.date.welo:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -13204,7 +13204,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -13217,7 +13217,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:buttonGravity
+     * @attr name com.match.date.welo:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
@@ -13228,7 +13228,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:collapseContentDescription
+     * @attr name com.match.date.welo:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
@@ -13241,7 +13241,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:collapseIcon
+     * @attr name com.match.date.welo:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
@@ -13256,7 +13256,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:contentInsetEnd
+     * @attr name com.match.date.welo:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
@@ -13271,7 +13271,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:contentInsetEndWithActions
+     * @attr name com.match.date.welo:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
@@ -13286,7 +13286,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:contentInsetLeft
+     * @attr name com.match.date.welo:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
@@ -13301,7 +13301,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:contentInsetRight
+     * @attr name com.match.date.welo:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
@@ -13316,7 +13316,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:contentInsetStart
+     * @attr name com.match.date.welo:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
@@ -13331,7 +13331,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:contentInsetStartWithNavigation
+     * @attr name com.match.date.welo:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
@@ -13345,7 +13345,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:logo
+     * @attr name com.match.date.welo:logo
      */
     public static final int Toolbar_logo=11;
     /**
@@ -13357,11 +13357,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:logoDescription
+     * @attr name com.match.date.welo:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13370,7 +13370,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:maxButtonHeight
+     * @attr name com.match.date.welo:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
@@ -13382,7 +13382,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:navigationContentDescription
+     * @attr name com.match.date.welo:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
@@ -13396,7 +13396,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:navigationIcon
+     * @attr name com.match.date.welo:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
@@ -13410,7 +13410,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:popupTheme
+     * @attr name com.match.date.welo:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
@@ -13421,11 +13421,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:subtitle
+     * @attr name com.match.date.welo:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13433,7 +13433,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:subtitleTextAppearance
+     * @attr name com.match.date.welo:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
@@ -13445,17 +13445,17 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:subtitleTextColor
+     * @attr name com.match.date.welo:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.HBuilder.integrate:title
+     * @attr name com.match.date.welo:title
      */
     public static final int Toolbar_title=20;
     /**
@@ -13470,7 +13470,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:titleMargin
+     * @attr name com.match.date.welo:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
@@ -13486,7 +13486,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:titleMarginBottom
+     * @attr name com.match.date.welo:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
@@ -13502,7 +13502,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:titleMarginEnd
+     * @attr name com.match.date.welo:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
@@ -13518,7 +13518,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:titleMarginStart
+     * @attr name com.match.date.welo:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
@@ -13534,7 +13534,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:titleMarginTop
+     * @attr name com.match.date.welo:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
@@ -13548,12 +13548,12 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:titleMargins
+     * @attr name com.match.date.welo:titleMargins
      */
     @Deprecated
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link com.HBuilder.integrate.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.match.date.welo.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13561,7 +13561,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:titleTextAppearance
+     * @attr name com.match.date.welo:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
@@ -13573,7 +13573,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:titleTextColor
+     * @attr name com.match.date.welo:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -13585,9 +13585,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.HBuilder.integrate:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.HBuilder.integrate:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_theme com.HBuilder.integrate:theme}</code></td><td>Deprecated.</td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.match.date.welo:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.match.date.welo:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_theme com.match.date.welo:theme}</code></td><td>Deprecated.</td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -13649,7 +13649,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:paddingEnd
+     * @attr name com.match.date.welo:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
@@ -13663,7 +13663,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.HBuilder.integrate:paddingStart
+     * @attr name com.match.date.welo:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
@@ -13676,7 +13676,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.HBuilder.integrate:theme
+     * @attr name com.match.date.welo:theme
      */
     public static final int View_theme=4;
     /**
@@ -13687,8 +13687,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.HBuilder.integrate:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.HBuilder.integrate:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.match.date.welo:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.match.date.welo:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -13721,7 +13721,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.HBuilder.integrate:backgroundTint
+     * @attr name com.match.date.welo:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
@@ -13748,7 +13748,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.HBuilder.integrate:backgroundTintMode
+     * @attr name com.match.date.welo:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**

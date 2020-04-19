@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-87:12
-INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-87:12
-INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-87:12
-INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-87:12
+ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-88:12
 MERGED from [lib.5plus.base-release.aar] /Users/ak/.gradle/caches/transforms-1/files-1.1/lib.5plus.base-release.aar/d3594e6b0ed1a104744d97290469ad6a/AndroidManifest.xml:2:1-318:12
 MERGED from [miit_mdid_1.0.10.aar] /Users/ak/.gradle/caches/transforms-1/files-1.1/miit_mdid_1.0.10.aar/c86149b1436ff7889f44f018528a39b0/AndroidManifest.xml:1:1-10:12
 MERGED from [android-gif-drawable-release@1.2.17.aar] /Users/ak/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-release@1.2.17.aar/dec8d55cf8768f3f89f45077309e23f0/AndroidManifest.xml:2:1-10:12
@@ -53,20 +53,20 @@ MERGED from [com.facebook.fresco:imagepipeline-base:1.13.0] /Users/ak/.gradle/ca
 MERGED from [com.facebook.fresco:fbcore:1.13.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/fbcore-1.13.0.aar/f9552def324095b08141de7c9ec3b3a4/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/d6cf76e0b2991cd81f5ea96db219e2b6/AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.billingclient:billing:2.1.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/billing-2.1.0.aar/d07050dcf9230a59bc6e912cda495df6/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-87:12
-INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-87:12
-INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-87:12
+INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-88:12
+INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-88:12
 	package
 		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:3:5-37
 		INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-87:12
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-88:12
 		INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-87:12
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-88:12
 		INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:11-69
@@ -110,8 +110,14 @@ uses-permission#android.permission.FLASHLIGHT
 ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:20:5-69
 	android:name
 		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:20:22-66
+uses-permission#com.android.vending.BILLING
+ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:21:5-67
+MERGED from [com.android.billingclient:billing:2.1.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/billing-2.1.0.aar/d07050dcf9230a59bc6e912cda495df6/AndroidManifest.xml:10:5-67
+MERGED from [com.android.billingclient:billing:2.1.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/billing-2.1.0.aar/d07050dcf9230a59bc6e912cda495df6/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:21:22-64
 application
-ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:23:5-85:19
+ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:24:5-86:19
 MERGED from [lib.5plus.base-release.aar] /Users/ak/.gradle/caches/transforms-1/files-1.1/lib.5plus.base-release.aar/d3594e6b0ed1a104744d97290469ad6a/AndroidManifest.xml:156:5-316:19
 MERGED from [lib.5plus.base-release.aar] /Users/ak/.gradle/caches/transforms-1/files-1.1/lib.5plus.base-release.aar/d3594e6b0ed1a104744d97290469ad6a/AndroidManifest.xml:156:5-316:19
 MERGED from [uniapp-release.aar] /Users/ak/.gradle/caches/transforms-1/files-1.1/uniapp-release.aar/90c662fb4d6ae0b90f2e2c5b64f5e6e0/AndroidManifest.xml:29:5-35:19
@@ -131,97 +137,97 @@ MERGED from [com.android.billingclient:billing:2.1.0] /Users/ak/.gradle/caches/t
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/710c926a96f813bc79bf4f15e7660c8b/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:31:9-35
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:32:9-35
 	android:label
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:28:9-41
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:29:9-41
 	android:allowClearUserData
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:26:9-42
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:27:9-42
 	android:debuggable
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:30:9-34
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:31:9-34
 	android:largeHeap
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:29:9-33
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:30:9-33
 	android:icon
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:27:9-38
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:28:9-38
 	android:allowBackup
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:25:9-35
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:26:9-35
 	android:usesCleartextTraffic
 		ADDED from [lib.5plus.base-release.aar] /Users/ak/.gradle/caches/transforms-1/files-1.1/lib.5plus.base-release.aar/d3594e6b0ed1a104744d97290469ad6a/AndroidManifest.xml:159:9-44
 	android:name
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:24:9-63
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:25:9-63
 activity#io.dcloud.PandoraEntry
-ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:34:9-56:20
+ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:35:9-57:20
 	android:hardwareAccelerated
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:38:13-47
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:39:13-47
 	android:windowSoftInputMode
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:39:13-55
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:40:13-55
 	android:configChanges
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:37:13-92
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:38:13-92
 	android:theme
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:36:13-52
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:37:13-52
 	android:name
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:35:13-50
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:36:13-50
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:hbuilder
-ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:40:13-46:29
+ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:41:13-47:29
 data
-ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:41:17-50
+ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:42:17-50
 	android:scheme
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:41:23-48
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:42:23-48
 	android:mimeType
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:48:23-49
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:49:23-49
 action#android.intent.action.VIEW
-ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:42:17-68
+ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:43:17-68
 	android:name
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:42:25-66
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:43:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:44:17-75
+ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:45:17-75
 	android:name
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:44:27-73
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:45:27-73
 category#android.intent.category.BROWSABLE
-ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:45:17-77
+ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:46:17-77
 	android:name
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:45:27-75
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:46:27-75
 intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
-ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:47:13-51:29
+ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:48:13-52:29
 action#android.intent.action.SEND
-ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:49:17-68
+ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:50:17-68
 	android:name
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:49:25-66
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:50:25-66
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:52:13-55:29
+ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:53:13-56:29
 action#android.intent.action.MAIN
-ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:53:17-68
+ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:54:17-68
 	android:name
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:53:25-66
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:54:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:54:17-76
+ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:55:17-76
 	android:name
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:54:27-74
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:55:27-74
 meta-data#dcloud_uninview_background
-ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:57:9-58:35
+ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:58:9-59:35
 	android:value
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:58:13-33
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:59:13-33
 	android:name
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:57:20-61
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:58:20-61
 activity#io.dcloud.PandoraEntryActivity
-ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:60:9-84:20
+ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:61:9-85:20
 	android:screenOrientation
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:66:13-45
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:67:13-45
 	android:launchMode
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:62:13-44
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:63:13-44
 	android:hardwareAccelerated
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:64:13-47
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:65:13-47
 	android:windowSoftInputMode
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:68:13-55
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:69:13-55
 	android:permission
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:65:13-89
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:66:13-89
 	android:configChanges
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:63:13-101
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:64:13-101
 	android:theme
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:67:13-47
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:68:13-47
 	android:name
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:61:13-58
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:62:13-58
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:h56131bcf
-ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:70:13-83:29
+ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:71:13-84:29
 uses-sdk
 INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
@@ -541,7 +547,7 @@ ADDED from [lib.5plus.base-release.aar] /Users/ak/.gradle/caches/transforms-1/fi
 	android:name
 		ADDED from [lib.5plus.base-release.aar] /Users/ak/.gradle/caches/transforms-1/files-1.1/lib.5plus.base-release.aar/d3594e6b0ed1a104744d97290469ad6a/AndroidManifest.xml:314:13-46
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-87:12 reason: io.dcloud.base requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-88:12 reason: io.dcloud.base requested WRITE_EXTERNAL_STORAGE
 uses-permission#android.permission.READ_PHONE_STATE
 ADDED from [miit_mdid_1.0.10.aar] /Users/ak/.gradle/caches/transforms-1/files-1.1/miit_mdid_1.0.10.aar/c86149b1436ff7889f44f018528a39b0/AndroidManifest.xml:5:5-75
 	android:name
@@ -558,10 +564,6 @@ ADDED from [uniapp-release.aar] /Users/ak/.gradle/caches/transforms-1/files-1.1/
 		ADDED from [uniapp-release.aar] /Users/ak/.gradle/caches/transforms-1/files-1.1/uniapp-release.aar/90c662fb4d6ae0b90f2e2c5b64f5e6e0/AndroidManifest.xml:33:13-37
 	android:name
 		ADDED from [uniapp-release.aar] /Users/ak/.gradle/caches/transforms-1/files-1.1/uniapp-release.aar/90c662fb4d6ae0b90f2e2c5b64f5e6e0/AndroidManifest.xml:31:13-65
-uses-permission#com.android.vending.BILLING
-ADDED from [com.android.billingclient:billing:2.1.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/billing-2.1.0.aar/d07050dcf9230a59bc6e912cda495df6/AndroidManifest.xml:10:5-67
-	android:name
-		ADDED from [com.android.billingclient:billing:2.1.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/billing-2.1.0.aar/d07050dcf9230a59bc6e912cda495df6/AndroidManifest.xml:10:22-64
 meta-data#com.google.android.play.billingclient.version
 ADDED from [com.android.billingclient:billing:2.1.0] /Users/ak/.gradle/caches/transforms-1/files-1.1/billing-2.1.0.aar/d07050dcf9230a59bc6e912cda495df6/AndroidManifest.xml:13:9-15:37
 	android:value
