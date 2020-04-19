@@ -88,7 +88,7 @@ public class BillingClientLifecycle implements LifecycleObserver, PurchasesUpdat
     }
 
     @OnLifecycleEvent(Lifecycle.Event.ON_CREATE)
-    public void create() {
+    public void create() {	
         Log.d(TAG, "ON_CREATE");
         // Create a new BillingClient in onCreate().
         // Since the BillingClient can only be used once, we need to create a new instance

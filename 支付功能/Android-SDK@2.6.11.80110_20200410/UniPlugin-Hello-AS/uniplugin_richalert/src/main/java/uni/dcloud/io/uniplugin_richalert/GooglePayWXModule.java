@@ -1,13 +1,9 @@
 package uni.dcloud.io.uniplugin_richalert;
 
 import android.app.Activity;
-import android.content.Context;
-import android.content.DialogInterface;
-import android.graphics.Color;
-import android.text.TextUtils;
 import android.util.Log;
 
-import com.alibaba.fastjson.JSONArray;
+
 import com.alibaba.fastjson.JSONObject;
 import com.android.billingclient.api.BillingClient;
 import com.android.billingclient.api.BillingClientStateListener;
@@ -21,8 +17,7 @@ import com.android.billingclient.api.SkuDetailsResponseListener;
 import com.taobao.weex.WXSDKEngine;
 import com.taobao.weex.annotation.JSMethod;
 import com.taobao.weex.bridge.JSCallback;
-import com.taobao.weex.utils.WXLogUtils;
-import com.taobao.weex.utils.WXResourceUtils;
+
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -45,41 +40,26 @@ import java.util.Map;
 
 //https://ask.dcloud.net.cn/article/35416
 public class GooglePayWXModule extends WXSDKEngine.DestroyableModule implements BillingClientStateListener, PurchasesUpdatedListener, SkuDetailsResponseListener {
-    public String CONTENT = "content";
-    public String CONTENT_COLOR = "contentColor";
-    public String CONTENT_ALIGN = "contentAlign";
-    public String POSITION = "position";
-    public String BUTTONS = "buttons";
-    public String CHECKBOX = "checkBox";
-    public String TITLE_ALIGN = "titleAlign";
 
     //内购的两种类型 消费 的 订阅的
     public String INAPP_TYPE = "INAPP";
     public String SUBS_TYPE = "SUBS";
 
-    public  JSCallback ceateJSCallback = null;
-    public  JSCallback payJSCallback = null;
+    public JSCallback ceateJSCallback = null;
+    public JSCallback payJSCallback = null;
 
-    //默认黑色
-    public static int defColor = Color.BLACK;
-
-    RichAlert alert;
 
     private static final String TAG = "GooglePayUtil";
-
     private BillingClient billingClient;
-
 
     //所有商品 ID 上层初始化时要设置这个值 初始化时一起传入， INAPP 和 SUBS 都有
     private Map<String, List> serviceSKUS = new HashMap<String, List>();
-
 
     /**
      * SkuDetails for all known SKUs.
      */
 
     public Map<String, SkuDetails> skusWithSkuDetails = new HashMap<String, SkuDetails>();
-
 
     /*初始化充值*/
     @JSMethod(uiThread = true)
@@ -103,80 +83,6 @@ public class GooglePayWXModule extends WXSDKEngine.DestroyableModule implements 
         }
     }
 
-    @JSMethod(uiThread = true)
-    public void show(JSONObject options, JSCallback jsCallback) {
-
-        if (mWXSDKInstance.getContext() instanceof Activity) {
-
-            String content = options.getString(CONTENT);
-            int contentColor = WXResourceUtils.getColor(options.getString(CONTENT_COLOR), defColor);
-            String contentAlign = options.getString(CONTENT_ALIGN);
-
-            String title = options.getString(RichAlert.TITLE);
-            int titleColor = WXResourceUtils.getColor(options.getString(RichAlert.TITLE_COLOR), defColor);
-            String titleAlign = options.getString(TITLE_ALIGN);
-
-            String postion = options.getString(POSITION);
-
-            RichAlert richAlert = new RichAlert(mWXSDKInstance.getContext());
-
-            JSONArray buttons = options.getJSONArray(BUTTONS);
-            JSONObject checkBox = options.getJSONObject(CHECKBOX);
-
-            if (!TextUtils.isEmpty(title)) {
-                richAlert.setTitle(title, titleColor, titleAlign);
-            }
-            if (!TextUtils.isEmpty(content)) {
-                richAlert.setContent(content, contentColor, contentAlign, jsCallback);
-            }
-            if (checkBox != null) {
-                richAlert.setCheckBox(checkBox, jsCallback);
-            }
-            if (buttons != null) {
-                richAlert.setButtons(buttons, jsCallback);
-            }
-            if (!TextUtils.isEmpty(postion)) {
-                richAlert.setPosition(postion);
-            }
-
-//            richAlert.show();
-//            tracking(richAlert, jsCallback);
-        }
-    }
-
-    private void tracking(RichAlert dialog, final JSCallback jsCallback) {
-        alert = dialog;
-        dialog.setOnCancelListener(new DialogInterface.OnCancelListener() {
-            @Override
-            public void onCancel(DialogInterface dialog) {
-                JSONObject result = new JSONObject();
-                result.put("type", "backCancel");
-                jsCallback.invoke(result);
-            }
-        });
-        dialog.setOnDismissListener(new DialogInterface.OnDismissListener() {
-            @Override
-            public void onDismiss(DialogInterface dialog) {
-                alert = null;
-            }
-        });
-    }
-
-    @JSMethod(uiThread = true)
-    public void dismiss() {
-        destroy();
-    }
-
-//    @Override
-//    public void destroy() {
-//        if (alert != null && alert.isShowing()) {
-//            WXLogUtils.w("Dismiss the active dialog");
-//            alert.dismiss();
-//        }
-//    }
-
-
-    //////
     /**
      * 开始购买  SKU
      */
@@ -212,10 +118,6 @@ public class GooglePayWXModule extends WXSDKEngine.DestroyableModule implements 
         }
     }
 
-    public void paySKU(Activity activity, String sku) {
-
-    }
-
     /**
      * 销毁时候调用
      */
@@ -241,7 +143,15 @@ public class GooglePayWXModule extends WXSDKEngine.DestroyableModule implements 
             //TODO 你看看 这个地方需不需要给他们一些回调
             // The billing client is ready. You can query purchases here.
             querySkuDetails();
-            queryPurchases();
+        }
+        else
+        {
+            //通知 JS 初始化失败
+            if (ceateJSCallback != null) {
+                JSONObject result = new JSONObject();
+                result.put("code", "-1");
+                ceateJSCallback.invoke(result);
+            }
         }
     }
 
@@ -262,33 +172,35 @@ public class GooglePayWXModule extends WXSDKEngine.DestroyableModule implements 
         String debugMessage = billingResult.getDebugMessage();
         Log.d(TAG, "onPurchasesUpdated: $responseCode $debugMessage");
 
-
         //订单信息要发给服务器进行二次验证等后面工作
 //        PurchaseHistoryBean purchaseHistory = new PurchaseHistoryBean();
 //        purchaseHistory.uid = NumberParserUtil.parseLong(UserInfoManager.create().getUserId(), -1);
-//        purchaseHistory.orderId = purchase.getOrderId();
-//        purchaseHistory.purchaseToken = purchase.getPurchaseToken();
-//        purchaseHistory.developerPayload = purchase.getDeveloperPayload();
-//        purchaseHistory.productId = purchase.getSku();
-//        purchaseHistory.purchaseTime = purchase.getPurchaseTime();
 
-
-        if (payJSCallback !=null)
-        {
+        List items = new ArrayList();
+        for (Purchase p : list) {
+            Map<String, String> item = new HashMap<String, String>();
+            item.put("orderId", p.getOrderId());
+            item.put("purchaseToken", p.getPurchaseToken());
+            item.put("developerPayload", p.getDeveloperPayload());
+            item.put("productId", p.getSku());
+            item.put("purchaseTime", String.valueOf(p.getPurchaseTime()));
+            items.add(item);
+        }
+        if (payJSCallback != null) {
             //通知 JS 购买成功
             JSONObject result = new JSONObject();
-            result.put("code", "1");
+            result.put("code", responseCode);
+            result.put("debugMessage", billingResult.getDebugMessage());
+            result.put("products", items);
             payJSCallback.invoke(result);
         }
 
+//        只是 LOG
         switch (responseCode) {
             case BillingClient.BillingResponseCode.OK:
-                if (list == null) {
-                    Log.d(TAG, "onPurchasesUpdated: null purchase list");
-                    processPurchases(null);
-                } else {
-                    processPurchases(list);
-                }
+
+                Log.d(TAG, "onPurchasesUpdated: 支付成功");
+
                 break;
             case BillingClient.BillingResponseCode.USER_CANCELED:
                 Log.i(TAG, "onPurchasesUpdated: User canceled the purchase");
@@ -312,6 +224,12 @@ public class GooglePayWXModule extends WXSDKEngine.DestroyableModule implements 
     public void onSkuDetailsResponse(BillingResult billingResult, List<SkuDetails> list) {
         if (billingResult == null) {
             Log.wtf(TAG, "onSkuDetailsResponse: null BillingResult");
+            //通知 JS 初始化失败
+            if (ceateJSCallback != null) {
+                JSONObject result = new JSONObject();
+                result.put("code", "-1");
+                ceateJSCallback.invoke(result);
+            }
             return;
         }
 
@@ -323,10 +241,12 @@ public class GooglePayWXModule extends WXSDKEngine.DestroyableModule implements 
                 if (list == null) {
                     Log.w(TAG, "onSkuDetailsResponse 2222: null SkuDetails list");
 
-                    //通知 JS 初始化成功
-                    JSONObject result = new JSONObject();
-                    result.put("code", "-1");
-                    ceateJSCallback.invoke(result);
+                    //通知 JS 初始化失败
+                    if (ceateJSCallback != null) {
+                        JSONObject result = new JSONObject();
+                        result.put("code", "-1000");
+                        ceateJSCallback.invoke(result);
+                    }
 
                 } else {
                     Map<String, SkuDetails> newSkusDetailList = new HashMap<String, SkuDetails>();
@@ -337,13 +257,24 @@ public class GooglePayWXModule extends WXSDKEngine.DestroyableModule implements 
                     Log.i(TAG, "onSkuDetailsResponse333: count " + list.size());
 
                     //判断所有商品是否全部取完
-                    if (serviceSKUS.get(INAPP_TYPE).size() + serviceSKUS.get(SUBS_TYPE).size() == skusWithSkuDetails.size()) {
+                    int sum = 0;
+                    if (serviceSKUS.get(INAPP_TYPE) != null) {
+                        sum += serviceSKUS.get(INAPP_TYPE).size();
+                    }
+
+                    if (serviceSKUS.get(SUBS_TYPE) != null) {
+                        sum += serviceSKUS.get(SUBS_TYPE).size();
+                    }
+
+                    if (sum == skusWithSkuDetails.size()) {
                         Log.i(TAG, "所有商品全部取完" + skusWithSkuDetails.size());
 
-                        if (ceateJSCallback !=null) {
+                        if (ceateJSCallback != null) {
                             //通知 JS 初始化成功
                             JSONObject result = new JSONObject();
-                            result.put("code", "1");
+                            result.put("code", "0");
+                            Log.i(TAG, "返回的数据为：" + result);
+
                             ceateJSCallback.invoke(result);
                         }
 
@@ -368,6 +299,18 @@ public class GooglePayWXModule extends WXSDKEngine.DestroyableModule implements 
             case BillingClient.BillingResponseCode.ITEM_NOT_OWNED:
             default:
                 Log.wtf(TAG, "onSkuDetailsResponse ak: " + responseCode + " " + debugMessage);
+
+
+                if (ceateJSCallback != null) {
+                    //通知 JS 初始化成功
+                    JSONObject result = new JSONObject();
+                    result.put("code", responseCode);
+                    result.put("debugMessage", billingResult.getDebugMessage());
+
+                    Log.i(TAG, "返回的数据为：" + result);
+
+                    ceateJSCallback.invoke(result);
+                }
         }
 
     }
@@ -380,101 +323,26 @@ public class GooglePayWXModule extends WXSDKEngine.DestroyableModule implements 
     public void querySkuDetails() {
         Log.d(TAG, "querySkuDetails");
 
+
         //消耗类型
-        SkuDetailsParams inapp_params = SkuDetailsParams.newBuilder()
-                .setType(BillingClient.SkuType.INAPP)
-                .setSkusList(serviceSKUS.get(INAPP_TYPE))
-                .build();
-        Log.i(TAG, "querySkuDetailsAsync");
-        billingClient.querySkuDetailsAsync(inapp_params, this);
+        if (serviceSKUS.get(INAPP_TYPE) != null) {
+            SkuDetailsParams inapp_params = SkuDetailsParams.newBuilder()
+                    .setType(BillingClient.SkuType.INAPP)
+                    .setSkusList(serviceSKUS.get(INAPP_TYPE))
+                    .build();
+            Log.i(TAG, "querySkuDetailsAsync");
+            billingClient.querySkuDetailsAsync(inapp_params, this);
+        }
 
-        //订阅类型
-        SkuDetailsParams subs_params = SkuDetailsParams.newBuilder()
-                .setType(BillingClient.SkuType.SUBS)
-                .setSkusList(serviceSKUS.get(SUBS_TYPE))
-                .build();
-        Log.i(TAG, "querySkuDetailsAsync");
-        billingClient.querySkuDetailsAsync(subs_params, this);
-    }
-
-    /**
-     * Query Google Play Billing for existing purchases. 查询商品信息
-     * <p>
-     * New purchases will be provided to the PurchasesUpdatedListener.
-     * You still need to check the Google Play Billing API to know when purchase tokens are removed.
-     */
-    public void queryPurchases() {
-        if (!billingClient.isReady()) {
-            Log.e(TAG, "queryPurchases: BillingClient is not ready");
+        if (serviceSKUS.get(SUBS_TYPE) != null) {
+            //订阅类型
+            SkuDetailsParams subs_params = SkuDetailsParams.newBuilder()
+                    .setType(BillingClient.SkuType.SUBS)
+                    .setSkusList(serviceSKUS.get(SUBS_TYPE))
+                    .build();
+            Log.i(TAG, "querySkuDetailsAsync");
+            billingClient.querySkuDetailsAsync(subs_params, this);
         }
-        Log.d(TAG, "queryPurchases: SUBS");
-        Purchase.PurchasesResult result = billingClient.queryPurchases(BillingClient.SkuType.SUBS);
-        if (result == null) {
-            Log.i(TAG, "queryPurchases: null purchase result");
-            processPurchases(null);
-        } else {
-            if (result.getPurchasesList() == null) {
-                Log.i(TAG, "queryPurchases: null purchase list");
-                processPurchases(null);
-            } else {
-                processPurchases(result.getPurchasesList());
-            }
-        }
-    }
-
-    /**
-     * Send purchase SingleLiveEvent and update purchases LiveData.
-     * <p>
-     * The SingleLiveEvent will trigger network call to verify the subscriptions on the sever.
-     * The LiveData will allow Google Play settings UI to update based on the latest purchase data.
-     */
-    private void processPurchases(List<Purchase> purchasesList) {
-        if (purchasesList != null) {
-            Log.d(TAG, "processPurchases: " + purchasesList.size() + " purchase(s)");
-        } else {
-            Log.d(TAG, "processPurchases: with no purchases");
-        }
-        if (isUnchangedPurchaseList(purchasesList)) {
-            Log.d(TAG, "processPurchases: Purchase list has not changed");
-            return;
-        }
-//        purchaseUpdateEvent.postValue(purchasesList);
-//        purchases.postValue(purchasesList);
-        if (purchasesList != null) {
-            logAcknowledgementStatus(purchasesList);
-        }
-    }
-
-    /**
-     * Check whether the purchases have changed before posting changes.
-     */
-    private boolean isUnchangedPurchaseList(List<Purchase> purchasesList) {
-        // TODO: Optimize to avoid updates with identical data.
-        return false;
-    }
-
-    /**
-     * Log the number of purchases that are acknowledge and not acknowledged.
-     * <p>
-     * https://developer.android.com/google/play/billing/billing_library_releases_notes#2_0_acknowledge
-     * <p>
-     * When the purchase is first received, it will not be acknowledge.
-     * This application sends the purchase token to the server for registration. After the
-     * purchase token is registered to an account, the Android app acknowledges the purchase token.
-     * The next time the purchase list is updated, it will contain acknowledged purchases.
-     */
-    private void logAcknowledgementStatus(List<Purchase> purchasesList) {
-        int ack_yes = 0;
-        int ack_no = 0;
-        for (Purchase purchase : purchasesList) {
-            if (purchase.isAcknowledged()) {
-                ack_yes++;
-            } else {
-                ack_no++;
-            }
-        }
-        Log.d(TAG, "logAcknowledgementStatus: acknowledged=" + ack_yes +
-                " unacknowledged=" + ack_no);
     }
 
 
