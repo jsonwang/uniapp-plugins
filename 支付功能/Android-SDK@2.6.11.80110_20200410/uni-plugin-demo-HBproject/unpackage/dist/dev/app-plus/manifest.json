@@ -4,7 +4,7 @@
     "iPhone",
     "iPad"
   ],
-  "id": "__UNI__BB053CA",
+  "id": "__UNI__4371E24",
   "name": "default-demo",
   "version": {
     "name": "1.0.0",
@@ -93,20 +93,6 @@
       }
     },
     "nativePlugins": {
-      "liblebo-new": {
-        "__plugin_info__": {
-          "name": "liblebo-new",
-          "description": "示例插件",
-          "platforms": "Android,iOS",
-          "url": "",
-          "android_package_name": "",
-          "ios_bundle_id": "",
-          "isCloud": false,
-          "bought": -1,
-          "pid": "",
-          "parameters": {}
-        }
-      },
       "google-pay": {
         "__plugin_info__": {
           "name": "google-pay",

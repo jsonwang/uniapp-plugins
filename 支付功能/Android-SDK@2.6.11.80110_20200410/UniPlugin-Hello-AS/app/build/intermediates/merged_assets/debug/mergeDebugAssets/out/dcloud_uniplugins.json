@@ -5,7 +5,7 @@
       "plugins": [
         {
           "type": "module",
-          "name": "GooglePayWXModule",
+          "name": "google-pay",
           "class": "uni.dcloud.io.uniplugin_richalert.GooglePayWXModule"
         }
       ]

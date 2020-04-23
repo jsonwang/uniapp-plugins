@@ -33,9 +33,9 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* WEBPACK VAR INJECTION */(f
 
 /***/ }),
 /* 4 */
-/*!***********************************************************************************************************!*\
-  !*** /Users/ak/Desktop/投屏的功能/支付功能/Android-SDK@2.6.11.80110_20200410/uni-plugin-demo-HBproject/pages.json ***!
-  \***********************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/uni-plugin-demo-HBproject/pages.json ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -65,9 +65,9 @@ eval("module.exports = {\"_from\":\"@dcloudio/uni-stat@alpha\",\"_id\":\"@dcloud
 
 /***/ }),
 /* 7 */
-/*!****************************************************************************************************************************!*\
-  !*** /Users/ak/Desktop/投屏的功能/支付功能/Android-SDK@2.6.11.80110_20200410/uni-plugin-demo-HBproject/pages.json?{"type":"style"} ***!
-  \****************************************************************************************************************************/
+/*!*************************************************************************************************************************************!*\
+  !*** /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/uni-plugin-demo-HBproject/pages.json?{"type":"style"} ***!
+  \*************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -76,14 +76,14 @@ eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.de
 
 /***/ }),
 /* 8 */
-/*!***************************************************************************************************************************!*\
-  !*** /Users/ak/Desktop/投屏的功能/支付功能/Android-SDK@2.6.11.80110_20200410/uni-plugin-demo-HBproject/pages.json?{"type":"stat"} ***!
-  \***************************************************************************************************************************/
+/*!************************************************************************************************************************************!*\
+  !*** /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/uni-plugin-demo-HBproject/pages.json?{"type":"stat"} ***!
+  \************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _default = { \"appid\": \"__UNI__BB053CA\" };exports.default = _default;//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbbnVsbF0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJzR0FBZSxFQUFDLFNBQVEsZ0JBQVQsRSIsImZpbGUiOiI4LmpzIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGRlZmF1bHQge1wiYXBwaWRcIjpcIl9fVU5JX19CQjA1M0NBXCJ9Il0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///8\n");
+eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _default = { \"appid\": \"__UNI__4371E24\" };exports.default = _default;//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbbnVsbF0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJzR0FBZSxFQUFDLFNBQVEsZ0JBQVQsRSIsImZpbGUiOiI4LmpzIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGRlZmF1bHQge1wiYXBwaWRcIjpcIl9fVU5JX180MzcxRTI0XCJ9Il0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///8\n");
 
 /***/ }),
 /* 9 */,

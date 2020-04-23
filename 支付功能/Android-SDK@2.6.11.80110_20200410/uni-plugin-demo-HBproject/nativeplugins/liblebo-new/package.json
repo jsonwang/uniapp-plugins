@@ -17,19 +17,19 @@
 			"deploymentTarget": "8.0"
 		},
 		"android": {
-			"plugins": [
-				{
-					"type": "module",
-					"name": "GooglePayWXModule",
-					"class": "uni.dcloud.io.uniplugin_richalert.GooglePayWXModule"
-					// "type": "module",
-					// "name": "google-pay",
-					// "class": "com.ak.io.uniplugin_googlepay.GooglePayWXModule"
-				}
+			// "plugins": [
+			// 	{
+			// 		"type": "module",
+			// 		"name": "GooglePayWXModule",
+			// 		"class": "uni.dcloud.io.uniplugin_richalert.GooglePayWXModule"
+			// 		// "type": "module",
+			// 		// "name": "google-pay",
+			// 		// "class": "com.ak.io.uniplugin_googlepay.GooglePayWXModule"
+			// 	}
 				
-			],
-			"integrateType": "aar",
-			"minSdkVersion" : 16
+			// ],
+			// "integrateType": "aar",
+			// "minSdkVersion" : 16
 		}
 	}
 }

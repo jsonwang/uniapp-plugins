@@ -1,4 +1,4 @@
-#Mon Apr 20 00:12:13 CST 2020
+#Thu Apr 23 11:50:58 CST 2020
 path.2=classes.dex
 path.1=classes.dex
 path.0=classes.dex
@@ -6,5 +6,5 @@ renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 base.2=/Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/transforms/dexMerger/debug/1
-base.1=/Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/transforms/dexMerger/debug/3
+base.1=/Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/transforms/dexMerger/debug/2
 base.0=/Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/build/intermediates/transforms/dexMerger/debug/0

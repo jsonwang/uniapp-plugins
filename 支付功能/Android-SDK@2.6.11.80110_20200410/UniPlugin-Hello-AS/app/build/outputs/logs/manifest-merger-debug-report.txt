@@ -57,7 +57,7 @@ INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.8
 INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-88:12
 INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-88:12
 	package
-		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:3:5-37
+		ADDED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:3:5-27
 		INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/ak/Desktop/uniapp-plugins/支付功能/Android-SDK@2.6.11.80110_20200410/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
 	android:versionName

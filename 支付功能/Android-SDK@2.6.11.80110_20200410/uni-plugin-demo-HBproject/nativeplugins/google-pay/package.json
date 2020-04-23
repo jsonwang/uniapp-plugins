@@ -11,9 +11,11 @@
 		"android": {
 			"plugins": [
 				{
-					// "type": "module",
-					// "name": "google-pay",
-					// "class": "com.ak.io.uniplugin_googlepay.GooglePayWXModule"
+					"type": "module",
+					"name": "google-pay",
+					// "class": "uni.ak.io.uniplugin_pay.GooglePayWXModule"
+						"class": "uni.dcloud.io.uniplugin_richalert.GooglePayWXModule"
+					
 				}
 			],
 			"integrateType": "aar",

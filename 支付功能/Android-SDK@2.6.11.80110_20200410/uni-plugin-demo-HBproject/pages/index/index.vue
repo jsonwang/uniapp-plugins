@@ -28,27 +28,39 @@ export default {
 			 },
 					
 		beginPay(){
+	uni.showLoading({
+	    title: '加载中'
+	});
+	 
+	setTimeout(function () {
+	    uni.hideLoading();
+	}, 2000);
+			const dcRichAlert = uni.requireNativePlugin('google-pay');
 			
-			const dcRichAlert = uni.requireNativePlugin('GooglePayWXModule');
+			 console.log("初始化结果为:"+dcRichAlert); 
 			           // 使用插件  
 			           dcRichAlert.createPayCenter({  
 			               
+						   INAPP: [
+						   							   "g_101" 
+						   ]  ,
 			      //          INAPP: [
 							  //  "video1",
 							  //  "video2",
 							  //  "video3"
 						   // ]  ,
-						   SUBS: [
-							   "welovip_1",
-							   "welovip_3",
-							   "welovip_12"
+						   // SUBS: [
+							  //  "welovip_1",
+							  //  "welovip_3",
+							  //  "welovip_12"
 
-						       ]  
+						   //     ]  
 			           }, result => {  
 
 									// {"code":"0","debugMessage":"网络错误！"}  code == 0 时为成功 其它值时为失败
 									// 只有返回成功时才能调用购买接口
-			                       console.log("初始化结果为:"+result);  
+								 console.log("支付工具初始化结果为："+JSON.stringify(result))
+
 			                   
 			              }  
 			           ); 
@@ -56,15 +68,15 @@ export default {
 		},
 		endPay(){
 			
-			const dcRichAlert = uni.requireNativePlugin('GooglePayWXModule');
+			const dcRichAlert = uni.requireNativePlugin('google-pay');
 			           // 使用插件  
 			           dcRichAlert.paySKU({  
 			               
-			               SKU:"welovip_1" 
+			               SKU:"g_101" 
 			           }, result => {  
 			
 			             
-			                   console.log("购买结果为:"+result);  
+			                   console.log("购买结果为:"+JSON.stringify(result));  
 			                   
 			              }  
 			           ); 

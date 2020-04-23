@@ -66,9 +66,12 @@ public class GooglePayWXModule extends WXSDKEngine.DestroyableModule implements 
     public void createPayCenter(JSONObject options, JSCallback jsCallback) {
         if (mWXSDKInstance.getContext() instanceof Activity) {
 
+            Log.d(TAG, "初始化成功");
             ceateJSCallback = jsCallback;
+
             List INAPP_DATA = options.getJSONArray(INAPP_TYPE);
             List SUBS_DATA = options.getJSONArray(SUBS_TYPE);
+
             serviceSKUS.put(INAPP_TYPE, INAPP_DATA);
             serviceSKUS.put(SUBS_TYPE, SUBS_DATA);
 
@@ -252,9 +255,11 @@ public class GooglePayWXModule extends WXSDKEngine.DestroyableModule implements 
                     Map<String, SkuDetails> newSkusDetailList = new HashMap<String, SkuDetails>();
                     for (SkuDetails skuDetails : list) {
                         skusWithSkuDetails.put(skuDetails.getSku(), skuDetails);
+
+                        Log.i(TAG, "onSkuDetailsResponse : 商品 " + skuDetails.getSku() + "   " + skuDetails.getPrice());
                     }
 //                    skusWithSkuDetails.postValue(newSkusDetailList);
-                    Log.i(TAG, "onSkuDetailsResponse333: count " + list.size());
+                    Log.i(TAG, "onSkuDetailsResponse ak count: count " + list.size());
 
                     //判断所有商品是否全部取完
                     int sum = 0;
